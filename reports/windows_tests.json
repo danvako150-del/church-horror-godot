@@ -1,0 +1,19 @@
+{
+  "failed": [],
+  "passed": [
+    "All 555 exterior windows have unique glass surfaces",
+    "All 162 complete lit apertures retain their light state",
+    "Glass follows the original facade planes",
+    "Church glazing faces outwards and uses hall interiors",
+    "Saved scene contains every glass panel",
+    "Windows are batched into fewer than 70 draw meshes",
+    "Glass uses the interior/reflection shader on a separate visual layer",
+    "Both baked environment reflection maps are attached",
+    "No room geometry is generated per apartment",
+    "Window interiors add no physics bodies",
+    "Existing window lights are attached to their apertures",
+    "Light spills outwards/downwards and lights the masonry without self-glare",
+    "All 12 original street-light sources are preserved"
+  ],
+  "window_triangles": 1344
+}

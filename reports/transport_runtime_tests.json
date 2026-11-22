@@ -1,0 +1,32 @@
+{
+  "failed": [],
+  "passed": [
+    "Imported outward-facing mesh: models/PG_props/pg_forest/pg_tree01.mdl",
+    "Imported outward-facing mesh: models/PG_props/pg_forest/pg_tree02.mdl",
+    "Imported outward-facing mesh: models/dimidrol/pole/pole_cod4_02.mdl",
+    "Imported outward-facing mesh: models/dimidrol/furniture/bench_x2_01.mdl",
+    "Imported outward-facing mesh: models/vehicles/civ_golf.mdl",
+    "Imported outward-facing mesh: models/dean/gtaiv/vehicles/minivan.mdl",
+    "Imported outward-facing mesh: models/dinus/octavia.mdl",
+    "Imported outward-facing mesh: models/vehicles/civ_pickup.mdl",
+    "Imported outward-facing mesh: models/vehicles/civ_mercedes.mdl",
+    "Imported outward-facing mesh: models/dinus/fabia.mdl",
+    "Imported outward-facing mesh: models/vehicles/civ_bus_lod.mdl",
+    "Imported outward-facing mesh: models/biff.mdl",
+    "Imported outward-facing mesh: models/yankee.mdl",
+    "Imported outward-facing mesh: models/church_police.mdl",
+    "Imported outward-facing mesh: models/church_medic_.mdl",
+    "Saved scene has four grounded wheels: 22106",
+    "Saved scene has four grounded wheels: 22107",
+    "Saved scene has four grounded wheels: 22108",
+    "Saved scene has four grounded wheels: 22109",
+    "Saved scene has four grounded wheels: 22110",
+    "Saved scene has four grounded wheels: 22111",
+    "Saved scene has four grounded wheels: 22112",
+    "Saved scene has four grounded wheels: 22113",
+    "Saved scene has four grounded wheels: 22114",
+    "Saved scene has four grounded wheels: 22115",
+    "Saved scene has four grounded wheels: 22116",
+    "Saved scene has four grounded wheels: 22117"
+  ]
+}

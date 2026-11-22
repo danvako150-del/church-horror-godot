@@ -1,0 +1,86 @@
+[
+  {
+    "collision_shapes": 1,
+    "hull_points": 32,
+    "id": "22106",
+    "model": "models/vehicles/civ_golf.mdl",
+    "render_triangles": 7590
+  },
+  {
+    "collision_shapes": 1,
+    "hull_points": 32,
+    "id": "22107",
+    "model": "models/dean/gtaiv/vehicles/minivan.mdl",
+    "render_triangles": 15448
+  },
+  {
+    "collision_shapes": 1,
+    "hull_points": 32,
+    "id": "22108",
+    "model": "models/dinus/octavia.mdl",
+    "render_triangles": 2100
+  },
+  {
+    "collision_shapes": 1,
+    "hull_points": 32,
+    "id": "22109",
+    "model": "models/vehicles/civ_pickup.mdl",
+    "render_triangles": 2335
+  },
+  {
+    "collision_shapes": 1,
+    "hull_points": 32,
+    "id": "22110",
+    "model": "models/vehicles/civ_mercedes.mdl",
+    "render_triangles": 2813
+  },
+  {
+    "collision_shapes": 1,
+    "hull_points": 32,
+    "id": "22111",
+    "model": "models/dinus/fabia.mdl",
+    "render_triangles": 2036
+  },
+  {
+    "collision_shapes": 1,
+    "hull_points": 32,
+    "id": "22112",
+    "model": "models/vehicles/civ_bus_lod.mdl",
+    "render_triangles": 4352
+  },
+  {
+    "collision_shapes": 1,
+    "hull_points": 32,
+    "id": "22113",
+    "model": "models/vehicles/civ_bus_lod.mdl",
+    "render_triangles": 4352
+  },
+  {
+    "collision_shapes": 1,
+    "hull_points": 29,
+    "id": "22114",
+    "model": "models/biff.mdl",
+    "render_triangles": 15320
+  },
+  {
+    "collision_shapes": 1,
+    "hull_points": 32,
+    "id": "22115",
+    "model": "models/yankee.mdl",
+    "render_triangles": 16477
+  },
+  {
+    "collision_shapes": 1,
+    "hull_points": 32,
+    "id": "22116",
+    "model": "models/church_police.mdl",
+    "render_triangles": 2853
+  },
+  {
+    "collision_shapes": 1,
+    "hull_points": 32,
+    "id": "22117",
+    "model": "models/church_medic_.mdl",
+    "render_triangles": 2853
+  }
+]

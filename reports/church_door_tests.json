@@ -1,0 +1,18 @@
+{
+  "failed": [],
+  "passed": [
+    "Removed entrance exposes the continuous south wall at height 2.4",
+    "Removed entrance exposes the continuous south wall at height 4.5",
+    "Removed entrance exposes the continuous south wall at height 7.5",
+    "No old step collider remains south of the church",
+    "Lower door leaf is visible through the stone-base opening",
+    "Stone base remains beside the door at X -46.0",
+    "Stone base remains beside the door at X -40.3",
+    "Entrance tread has the correct collision height 0.1524",
+    "Entrance tread has the correct collision height 0.3048",
+    "Entrance tread has the correct collision height 0.4572",
+    "Entrance tread has the correct collision height 0.6096",
+    "Player climbs all four entrance steps to the threshold",
+    "Closed door stops the player at the entrance"
+  ]
+}

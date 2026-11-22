@@ -1,0 +1,17 @@
+* text=auto
+*.gd text eol=lf
+*.gdshader text eol=lf
+*.cjs text eol=lf
+*.tscn text eol=lf
+*.tres text eol=lf
+*.json text eol=lf
+*.vmf text eol=lf
+*.png binary
+*.bin binary
+*.res binary
+*.vtf binary
+*.mdl binary
+*.vvd binary
+*.vtx binary
+*.wav binary
+*.mp3 binary

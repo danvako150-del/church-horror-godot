@@ -1,0 +1,51 @@
+{
+  "engine": "4.5.1-stable (official)",
+  "renderer": "forward_plus",
+  "samples": [
+    {
+      "case": "spawn_idle",
+      "gpu_mean_ms": 0.0,
+      "physics_median_ms": 2024.993,
+      "physics_p95_ms": 2024.993,
+      "process_mean_ms": 0.07,
+      "wall_median_ms": 0.242,
+      "wall_p95_ms": 0.335
+    },
+    {
+      "case": "touch_22110",
+      "gpu_mean_ms": 0.0,
+      "physics_median_ms": 2024.993,
+      "physics_p95_ms": 2024.993,
+      "process_mean_ms": 0.119,
+      "wall_median_ms": 28.632,
+      "wall_p95_ms": 29.898
+    },
+    {
+      "case": "touch_22111",
+      "gpu_mean_ms": 0.0,
+      "physics_median_ms": 30.052,
+      "physics_p95_ms": 30.052,
+      "process_mean_ms": 0.2675,
+      "wall_median_ms": 22.778,
+      "wall_p95_ms": 24.043
+    },
+    {
+      "case": "touch_22114",
+      "gpu_mean_ms": 0.0,
+      "physics_median_ms": 77.072,
+      "physics_p95_ms": 78.881,
+      "process_mean_ms": 0.1183,
+      "wall_median_ms": 76.339,
+      "wall_p95_ms": 77.829
+    },
+    {
+      "case": "touch_22113",
+      "gpu_mean_ms": 0.0,
+      "physics_median_ms": 77.191,
+      "physics_p95_ms": 77.191,
+      "process_mean_ms": 0.075,
+      "wall_median_ms": 5.883,
+      "wall_p95_ms": 10.293
+    }
+  ]
+}

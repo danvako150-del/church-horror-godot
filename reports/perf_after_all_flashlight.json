@@ -1,0 +1,136 @@
+{
+  "engine": "4.5.1-stable (official)",
+  "renderer": "forward_plus",
+  "samples": [
+    {
+      "case": "spawn_idle",
+      "collision_median_ms": 0.104,
+      "controller_median_ms": 0.16,
+      "controller_p95_ms": 0.243,
+      "gpu_mean_ms": 2.43460001349449,
+      "process_mean_ms": 7.8539,
+      "wall_median_ms": 5.902,
+      "wall_p95_ms": 7.972
+    },
+    {
+      "case": "touch_22106",
+      "collision_median_ms": 0.748,
+      "controller_median_ms": 0.815,
+      "controller_p95_ms": 1.231,
+      "gpu_mean_ms": 3.58402498960495,
+      "process_mean_ms": 7.829,
+      "wall_median_ms": 7.311,
+      "wall_p95_ms": 9.455
+    },
+    {
+      "case": "touch_22107",
+      "collision_median_ms": 0.597,
+      "controller_median_ms": 0.633,
+      "controller_p95_ms": 0.874,
+      "gpu_mean_ms": 6.93450000286102,
+      "process_mean_ms": 16.2719,
+      "wall_median_ms": 12.005,
+      "wall_p95_ms": 13.271
+    },
+    {
+      "case": "touch_22108",
+      "collision_median_ms": 2.112,
+      "controller_median_ms": 2.152,
+      "controller_p95_ms": 2.418,
+      "gpu_mean_ms": 3.55484997034073,
+      "process_mean_ms": 20.337,
+      "wall_median_ms": 7.326,
+      "wall_p95_ms": 9.195
+    },
+    {
+      "case": "touch_22109",
+      "collision_median_ms": 2.61,
+      "controller_median_ms": 2.648,
+      "controller_p95_ms": 3.15,
+      "gpu_mean_ms": 3.8259249985218,
+      "process_mean_ms": 15.6024,
+      "wall_median_ms": 5.784,
+      "wall_p95_ms": 9.708
+    },
+    {
+      "case": "touch_22110",
+      "collision_median_ms": 1.046,
+      "controller_median_ms": 1.09,
+      "controller_p95_ms": 1.204,
+      "gpu_mean_ms": 4.67810000181198,
+      "process_mean_ms": 12.446,
+      "wall_median_ms": 9.147,
+      "wall_p95_ms": 10.799
+    },
+    {
+      "case": "touch_22111",
+      "collision_median_ms": 2.022,
+      "controller_median_ms": 2.058,
+      "controller_p95_ms": 3.232,
+      "gpu_mean_ms": 3.53989999294281,
+      "process_mean_ms": 11.898475,
+      "wall_median_ms": 6.802,
+      "wall_p95_ms": 9.819
+    },
+    {
+      "case": "touch_22112",
+      "collision_median_ms": 1.829,
+      "controller_median_ms": 1.867,
+      "controller_p95_ms": 1.964,
+      "gpu_mean_ms": 5.23442498445511,
+      "process_mean_ms": 10.455,
+      "wall_median_ms": 9.52,
+      "wall_p95_ms": 11.316
+    },
+    {
+      "case": "touch_22113",
+      "collision_median_ms": 0.461,
+      "controller_median_ms": 0.498,
+      "controller_p95_ms": 0.79,
+      "gpu_mean_ms": 4.89394998550415,
+      "process_mean_ms": 10.59345,
+      "wall_median_ms": 9.848,
+      "wall_p95_ms": 10.954
+    },
+    {
+      "case": "touch_22114",
+      "collision_median_ms": 0.715,
+      "controller_median_ms": 0.752,
+      "controller_p95_ms": 0.95,
+      "gpu_mean_ms": 4.34689999222755,
+      "process_mean_ms": 10.881,
+      "wall_median_ms": 5.419,
+      "wall_p95_ms": 10.35
+    },
+    {
+      "case": "touch_22115",
+      "collision_median_ms": 2.438,
+      "controller_median_ms": 2.474,
+      "controller_p95_ms": 2.725,
+      "gpu_mean_ms": 4.17157497406006,
+      "process_mean_ms": 10.8248,
+      "wall_median_ms": 8.769,
+      "wall_p95_ms": 10.185
+    },
+    {
+      "case": "touch_22116",
+      "collision_median_ms": 5.886,
+      "controller_median_ms": 5.93,
+      "controller_p95_ms": 7.221,
+      "gpu_mean_ms": 4.42802500724792,
+      "process_mean_ms": 10.319,
+      "wall_median_ms": 9.228,
+      "wall_p95_ms": 11.082
+    },
+    {
+      "case": "touch_22117",
+      "collision_median_ms": 1.151,
+      "controller_median_ms": 1.2,
+      "controller_p95_ms": 2.043,
+      "gpu_mean_ms": 4.98082500696182,
+      "process_mean_ms": 10.4447,
+      "wall_median_ms": 9.505,
+      "wall_p95_ms": 11.692
+    }
+  ]
+}

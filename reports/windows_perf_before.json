@@ -1,0 +1,27 @@
+[
+  {
+    "gpu_mean_ms": 4.2693500161171,
+    "view": "street",
+    "wall_mean_ms": 25.933075
+  },
+  {
+    "gpu_mean_ms": 4.52162499427795,
+    "view": "front",
+    "wall_mean_ms": 24.929325
+  },
+  {
+    "gpu_mean_ms": 4.9982749581337,
+    "view": "angle",
+    "wall_mean_ms": 25.31695
+  },
+  {
+    "gpu_mean_ms": 4.98125,
+    "view": "warm",
+    "wall_mean_ms": 19.1212
+  },
+  {
+    "gpu_mean_ms": 4.18302500844002,
+    "view": "dark",
+    "wall_mean_ms": 24.5401
+  }
+]

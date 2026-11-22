@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/vehicles/mercedes190_mesh"
+	// "$envmap" "env_cubemap"
+	// "$envmapmask" "models/vehicles/mercedes190_mesh_env"
+}

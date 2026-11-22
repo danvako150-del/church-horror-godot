@@ -1,0 +1,6 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "models/yankee/yankee_badges"
+	"$decal" "1"
+	"$translucent" "1"
+}

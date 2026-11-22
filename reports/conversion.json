@@ -1,0 +1,654 @@
+{
+  "source": "source_data",
+  "source_sha256": "7c0edf61dbff6e1e5a26cb3d24b4fadeaeba4d6f7b36003f37cdf78d21b2e603",
+  "brushes": 4351,
+  "faces": 27169,
+  "triangles": 49060,
+  "models": [
+    {
+      "source": "models/PG_props/pg_forest/pg_tree01.mdl",
+      "skin": 0,
+      "path": "assets/models/models__pg_props__pg_forest__pg_tree01_mdl_skin0.gltf",
+      "triangles": 4520,
+      "hull": [
+        [
+          -3.2528219940185545,
+          -0.00635,
+          2.937362373352051
+        ],
+        [
+          3.121056587219238,
+          9.780768884277343,
+          -3.126073335266113
+        ]
+      ]
+    },
+    {
+      "source": "models/PG_props/pg_forest/pg_tree02.mdl",
+      "skin": 0,
+      "path": "assets/models/models__pg_props__pg_forest__pg_tree02_mdl_skin0.gltf",
+      "triangles": 5290,
+      "hull": [
+        [
+          -3.7599902618408203,
+          -0.01674386351108551,
+          3.1814222824096676
+        ],
+        [
+          3.188801289367676,
+          9.206679895019532,
+          -2.908705207824707
+        ]
+      ]
+    },
+    {
+      "source": "models/dimidrol/pole/pole_cod4_02.mdl",
+      "skin": 0,
+      "path": "assets/models/models__dimidrol__pole__pole_cod4_02_mdl_skin0.gltf",
+      "triangles": 282,
+      "hull": [
+        [
+          -0.14111436376571654,
+          -0.5095644393920898,
+          0.8722090675354004
+        ],
+        [
+          0.11099236516952514,
+          6.073608343505859,
+          -0.09847904829978943
+        ]
+      ]
+    },
+    {
+      "source": "models/dimidrol/furniture/bench_x2_01.mdl",
+      "skin": 0,
+      "path": "assets/models/models__dimidrol__furniture__bench_x2_01_mdl_skin0.gltf",
+      "triangles": 1098,
+      "hull": [
+        [
+          -0.5824274822235107,
+          0,
+          1.721612937927246
+        ],
+        [
+          0.42122055854797363,
+          1.3315131057739258,
+          -1.6860965011596678
+        ]
+      ]
+    },
+    {
+      "source": "models/vehicles/civ_golf.mdl",
+      "skin": 0,
+      "path": "assets/models/models__vehicles__civ_golf_mdl_skin0.gltf",
+      "triangles": 7590,
+      "hull": [
+        [
+          -2.409703302001953,
+          -0.008770619720220566,
+          1.0973359268188476
+        ],
+        [
+          2.198540222167969,
+          1.6102330116271972,
+          -1.1801882339477539
+        ]
+      ],
+      "wheel_contacts": [
+        [
+          1.269906488727388,
+          -0.0024206199094653127,
+          -0.8721834554036447
+        ],
+        [
+          -1.5993312545776366,
+          0.0003175000047311187,
+          -0.872183304296221
+        ],
+        [
+          1.2722212976001566,
+          -0.0023977600902318954,
+          0.7839843839191255
+        ],
+        [
+          -1.597023643493652,
+          0.00034035998955368995,
+          0.7839845350265504
+        ]
+      ]
+    },
+    {
+      "source": "models/dean/gtaiv/vehicles/minivan.mdl",
+      "skin": 0,
+      "path": "assets/models/models__dean__gtaiv__vehicles__minivan_mdl_skin0.gltf",
+      "triangles": 15448,
+      "hull": [
+        [
+          -2.8145334365844725,
+          0.014864089381694793,
+          1.2312701934814452
+        ],
+        [
+          2.679692442321777,
+          2.0522107818603517,
+          -1.197244169616699
+        ]
+      ],
+      "wheel_contacts": [
+        [
+          -0.8980452874041622,
+          0.021216631317138673,
+          -1.6941659863411092
+        ],
+        [
+          0.8739851013021264,
+          0.021214087867736816,
+          1.4772493064799208
+        ],
+        [
+          0.8739842972938051,
+          0.021214087867736816,
+          -1.694110860232089
+        ],
+        [
+          -0.8980452874041628,
+          0.021214087867736816,
+          1.4771941803708981
+        ]
+      ]
+    },
+    {
+      "source": "models/dinus/octavia.mdl",
+      "skin": 0,
+      "path": "assets/models/models__dinus__octavia_mdl_skin0.gltf",
+      "triangles": 2100,
+      "hull": [
+        [
+          -2.3242523162841797,
+          -0.018867119932174683,
+          1.0964673751831053
+        ],
+        [
+          2.6765740280151364,
+          1.6392295944213866,
+          -1.120512419128418
+        ]
+      ],
+      "wheel_contacts": [
+        [
+          -1.0875347363652412,
+          -0.012517119932174681,
+          0.8494503713246939
+        ],
+        [
+          1.6293809419580405,
+          -0.012517119932174681,
+          -0.8490087708962931
+        ],
+        [
+          -1.1061076258478941,
+          -0.012517119932174681,
+          -0.8490086373406486
+        ],
+        [
+          1.6479538314406939,
+          -0.012517119932174681,
+          0.8494502312222041
+        ]
+      ]
+    },
+    {
+      "source": "models/vehicles/civ_pickup.mdl",
+      "skin": 0,
+      "path": "assets/models/models__vehicles__civ_pickup_mdl_skin0.gltf",
+      "triangles": 2335,
+      "hull": [
+        [
+          -3.2741090667724606,
+          -0.015471545338630675,
+          1.2382174438476563
+        ],
+        [
+          2.4541009796142577,
+          2.0873235610961913,
+          -1.0975082031249999
+        ]
+      ],
+      "wheel_contacts": [
+        [
+          1.6703972428265732,
+          -0.009121013182401657,
+          -0.7401127130845011
+        ],
+        [
+          -1.6543815423404475,
+          -0.009118320608139038,
+          -0.7401123711081113
+        ],
+        [
+          -1.6543815423404473,
+          -0.009118854278326035,
+          0.8808210589689367
+        ],
+        [
+          1.6703972428265725,
+          -0.009121546095609664,
+          0.8808207169925472
+        ]
+      ]
+    },
+    {
+      "source": "models/vehicles/civ_mercedes.mdl",
+      "skin": 0,
+      "path": "assets/models/models__vehicles__civ_mercedes_mdl_skin0.gltf",
+      "triangles": 2813,
+      "hull": [
+        [
+          -1.1395811195373535,
+          -0.011445239955186844,
+          2.666649440002441
+        ],
+        [
+          1.1428908012390135,
+          1.603126081085205,
+          -2.6163422393798825
+        ]
+      ],
+      "wheel_contacts": [
+        [
+          0.8678012406539919,
+          -0.011445239955186844,
+          1.7480533782958982
+        ],
+        [
+          -0.8781093081665041,
+          -0.011445239955186844,
+          -1.4045006080627453
+        ],
+        [
+          -0.860397351493836,
+          -0.011445239955186844,
+          1.7480533782958978
+        ],
+        [
+          0.8855122477722164,
+          -0.011445239955186844,
+          -1.4045006080627451
+        ]
+      ]
+    },
+    {
+      "source": "models/dinus/fabia.mdl",
+      "skin": 0,
+      "path": "assets/models/models__dinus__fabia_mdl_skin0.gltf",
+      "triangles": 2036,
+      "hull": [
+        [
+          -1.9834725357055663,
+          -0.018867119932174683,
+          1.069693137359619
+        ],
+        [
+          2.5469117874145506,
+          1.8600750289916992,
+          -1.07817120513916
+        ]
+      ],
+      "wheel_contacts": [
+        [
+          1.611799841927193,
+          -0.012517119932174681,
+          -0.7891756471685463
+        ],
+        [
+          -1.2123296148351725,
+          -0.012517119932174681,
+          -0.7891754821880441
+        ],
+        [
+          1.630375127555229,
+          -0.012517119932174681,
+          0.7978503284969842
+        ],
+        [
+          -1.1937567253525199,
+          -0.012517119932174681,
+          0.7978442530245395
+        ]
+      ]
+    },
+    {
+      "source": "models/vehicles/civ_bus_lod.mdl",
+      "skin": 0,
+      "path": "assets/models/models__vehicles__civ_bus_lod_mdl_skin0.gltf",
+      "triangles": 4352,
+      "hull": [
+        [
+          -8.412736883544921,
+          -0.010217170989513396,
+          2.086800143432617
+        ],
+        [
+          8.374164044189452,
+          4.198711932373047,
+          -2.086795880126953
+        ]
+      ],
+      "wheel_contacts": [
+        [
+          -4.321418783569338,
+          -0.0038652702152729033,
+          -1.473372050221761
+        ],
+        [
+          3.757729531920192,
+          -0.00386577852666378,
+          -1.2303801533792529
+        ],
+        [
+          3.757729837799075,
+          -0.0038665657848119734,
+          1.2172373477348915
+        ],
+        [
+          -4.321418783569339,
+          -0.003866235741972923,
+          1.4772222273559565
+        ]
+      ]
+    },
+    {
+      "source": "models/biff.mdl",
+      "skin": 0,
+      "path": "assets/models/models__biff_mdl_skin0.gltf",
+      "triangles": 15320,
+      "hull": [
+        [
+          -4.570590008544921,
+          0,
+          1.2531159530639648
+        ],
+        [
+          2.4157132064819336,
+          3.4559181243896484,
+          -1.2647720245361327
+        ]
+      ],
+      "wheel_contacts": [
+        [
+          -3.6803562078857404,
+          0.01255969015955925,
+          -0.8997466876111715
+        ],
+        [
+          -3.680318768310545,
+          0.01255969015955925,
+          0.9381192498779297
+        ],
+        [
+          1.706815492740208,
+          0.012525629132986068,
+          -0.827056254598829
+        ],
+        [
+          1.7074365605587443,
+          0.012525629132986068,
+          0.8126632065624662
+        ]
+      ]
+    },
+    {
+      "source": "models/yankee.mdl",
+      "skin": 0,
+      "path": "assets/models/models__yankee_mdl_skin0.gltf",
+      "triangles": 16477,
+      "hull": [
+        [
+          -3.3222038055419922,
+          0,
+          1.427407543182373
+        ],
+        [
+          4.002811486816406,
+          3.2765817840576172,
+          -1.4221937141418457
+        ]
+      ],
+      "wheel_contacts": [
+        [
+          -2.5003481512015213,
+          0.014471980321407318,
+          -0.9336711133030485
+        ],
+        [
+          -2.500348151201521,
+          0.014471980321407318,
+          0.9500328942217146
+        ],
+        [
+          2.1908207450358073,
+          0.014468398296833038,
+          -0.9814542178090403
+        ],
+        [
+          2.191522278442382,
+          0.014468398296833038,
+          1.0256620136006673
+        ]
+      ]
+    },
+    {
+      "source": "models/church_police.mdl",
+      "skin": 0,
+      "path": "assets/models/models__church_police_mdl_skin0.gltf",
+      "triangles": 2853,
+      "hull": [
+        [
+          -1.2439092475891114,
+          -0.052616749572753904,
+          2.542786651611328
+        ],
+        [
+          1.2503301734924317,
+          2.600256593322754,
+          -2.7286532135009764
+        ]
+      ],
+      "wheel_contacts": [
+        [
+          -0.9345784776306154,
+          -0.05261544151306152,
+          -1.8923178283691406
+        ],
+        [
+          0.9410007212829591,
+          -0.05261551418304443,
+          -1.8923178283691406
+        ],
+        [
+          0.9410010700988769,
+          -0.05261665873527527,
+          1.6120719497680667
+        ],
+        [
+          -0.9345781288146972,
+          -0.05261658000946045,
+          1.6120719497680667
+        ]
+      ]
+    },
+    {
+      "source": "models/church_medic_.mdl",
+      "skin": 0,
+      "path": "assets/models/models__church_medic__mdl_skin0.gltf",
+      "triangles": 2853,
+      "hull": [
+        [
+          -1.2439092475891114,
+          -0.052616749572753904,
+          2.542786651611328
+        ],
+        [
+          1.2503301734924317,
+          2.600256593322754,
+          -2.7286532135009764
+        ]
+      ],
+      "wheel_contacts": [
+        [
+          -0.9345784776306154,
+          -0.05261544151306152,
+          -1.8923178283691406
+        ],
+        [
+          0.9410007212829591,
+          -0.05261551418304443,
+          -1.8923178283691406
+        ],
+        [
+          0.9410010700988769,
+          -0.05261665873527527,
+          1.6120719497680667
+        ],
+        [
+          -0.9345781288146972,
+          -0.05261658000946045,
+          1.6120719497680667
+        ]
+      ]
+    }
+  ],
+  "missing": [],
+  "warnings": [
+    "Corrected VTX winding: models/PG_props/pg_forest/pg_tree01.mdl / models/PG_props/pg_forest/pg_tree01_trunk",
+    "Corrected VTX winding: models/PG_props/pg_forest/pg_tree01.mdl / models/PG_props/pg_forest/pg_tree01_branch",
+    "Corrected VTX winding: models/PG_props/pg_forest/pg_tree01.mdl / models/PG_props/pg_forest/pg_tree01_leafs",
+    "Corrected VTX winding: models/PG_props/pg_forest/pg_tree02.mdl / models/PG_props/pg_forest/pg_tree01_trunk02",
+    "Corrected VTX winding: models/PG_props/pg_forest/pg_tree02.mdl / models/PG_props/pg_forest/pg_tree01_branch",
+    "Corrected VTX winding: models/PG_props/pg_forest/pg_tree02.mdl / models/PG_props/pg_forest/pg_tree01_leafs",
+    "Corrected VTX winding: models/dimidrol/pole/pole_cod4_02.mdl / models/dimidrol/pole/e1a27f9d",
+    "Corrected VTX winding: models/dimidrol/furniture/bench_x2_01.mdl / models/dimidrol/furniture/2c724814",
+    "Corrected VTX winding: models/dean/gtaiv/vehicles/minivan.mdl / models/gtaiv/vehicles/minivan/black",
+    "Corrected VTX winding: models/dean/gtaiv/vehicles/minivan.mdl / models/gtaiv/vehicles/vehicle_generic_detail2",
+    "Corrected VTX winding: models/dean/gtaiv/vehicles/minivan.mdl / models/gtaiv/vehicles/vehicle_generic_glasswindows2",
+    "Corrected VTX winding: models/dean/gtaiv/vehicles/minivan.mdl / models/gtaiv/vehicles/vehicle_generic_tyrewallblack",
+    "Corrected VTX winding: models/dean/gtaiv/vehicles/minivan.mdl / models/gtaiv/vehicles/minivan/cabby_interior",
+    "Corrected VTX winding: models/dean/gtaiv/vehicles/minivan.mdl / models/gtaiv/vehicles/vehicle_generic_doorshut",
+    "Corrected VTX winding: models/dean/gtaiv/vehicles/minivan.mdl / models/gtaiv/vehicles/minivan/taxivan_lights_glass",
+    "Corrected VTX winding: models/dean/gtaiv/vehicles/minivan.mdl / models/gtaiv/vehicles/minivan/minivan_badges",
+    "Corrected VTX winding: models/dinus/octavia.mdl / models/dinus/octavia",
+    "Corrected VTX winding: models/vehicles/civ_pickup.mdl / models/vehicles/nissan/glass",
+    "Corrected VTX winding: models/vehicles/civ_pickup.mdl / models/vehicles/nissan/green",
+    "Corrected VTX winding: models/vehicles/civ_mercedes.mdl / models/vehicles/mercedes190_mesh",
+    "Corrected VTX winding: models/vehicles/civ_mercedes.mdl / models/vehicles/mercedes190_mesh2",
+    "Corrected VTX winding: models/vehicles/civ_mercedes.mdl / models/vehicles/mercedes190_mesh2",
+    "Corrected VTX winding: models/vehicles/civ_mercedes.mdl / models/vehicles/mercedes190_mesh2",
+    "Corrected VTX winding: models/vehicles/civ_mercedes.mdl / models/vehicles/mercedes190_mesh2",
+    "Corrected VTX winding: models/vehicles/civ_mercedes.mdl / models/vehicles/mercedes190_mesh2",
+    "Corrected VTX winding: models/vehicles/civ_mercedes.mdl / models/vehicles/mercedes190_mesh2",
+    "Corrected VTX winding: models/vehicles/civ_mercedes.mdl / models/vehicles/mercedes190_mesh2",
+    "Corrected VTX winding: models/vehicles/civ_mercedes.mdl / models/vehicles/mercedes190_mesh2",
+    "Corrected VTX winding: models/dinus/fabia.mdl / models/dinus/fabia",
+    "Corrected VTX winding: models/vehicles/civ_bus_lod.mdl / models/vehicles/bus_interior_map",
+    "Corrected VTX winding: models/vehicles/civ_bus_lod.mdl / models/vehicles/bus_map",
+    "Corrected VTX winding: models/vehicles/civ_bus_lod.mdl / models/vehicles/bus_windows",
+    "Corrected VTX winding: models/biff.mdl / models/biff/vehicle_generic_glasswindows2",
+    "Corrected VTX winding: models/biff.mdl / models/biff/vehicle_generic_detail2",
+    "Corrected VTX winding: models/biff.mdl / models/biff/vehicle_generic_tyrewallblack",
+    "Corrected VTX winding: models/biff.mdl / models/biff/8",
+    "Corrected VTX winding: models/biff.mdl / models/biff/biff_badges",
+    "Corrected VTX winding: models/biff.mdl / models/biff/biff_stone",
+    "Corrected VTX winding: models/biff.mdl / models/biff/vehicle_generic_truck_interior",
+    "Corrected VTX winding: models/biff.mdl / vehicle_",
+    "Corrected VTX winding: models/yankee.mdl / models/yankee/vehicle_generic_detail2",
+    "Corrected VTX winding: models/yankee.mdl / models/yankee/8",
+    "Corrected VTX winding: models/yankee.mdl / models/yankee/vehicle_generic_truck_interior",
+    "Corrected VTX winding: models/yankee.mdl / steed_black",
+    "Corrected VTX winding: models/yankee.mdl / models/yankee/vehicle_generic_glasswindows2",
+    "Corrected VTX winding: models/yankee.mdl / models/yankee/vehicle_generic_tyrewallblack",
+    "Corrected VTX winding: models/yankee.mdl / models/yankee/yankee_badges",
+    "Corrected VTX winding: models/yankee.mdl / models/yankee/yankee_signs",
+    "Corrected VTX winding: models/church_police.mdl / models/church/police/GIAT",
+    "Corrected VTX winding: models/church_medic_.mdl / models/church/medic_/GIAT"
+  ],
+  "textures": 87,
+  "church_doors": {
+    "removed_south_door_brushes": 27,
+    "removed_south_steps": 2,
+    "embedded_north_door_brushes": 27,
+    "notched_north_plinth_brushes": 2,
+    "extended_north_steps": 2,
+    "north_translation_source_units": [
+      0,
+      -36,
+      0
+    ],
+    "wall_north_y": 1050,
+    "door_center_north_y": 1048,
+    "threshold_z": 24,
+    "north_treads": 4,
+    "ramp_source_vertices": [
+      [
+        -1824,
+        1132,
+        0
+      ],
+      [
+        -1576,
+        1132,
+        0
+      ],
+      [
+        -1812,
+        1084,
+        24
+      ],
+      [
+        -1588,
+        1084,
+        24
+      ],
+      [
+        -1812,
+        1032,
+        24
+      ],
+      [
+        -1588,
+        1032,
+        24
+      ],
+      [
+        -1812,
+        1032,
+        0
+      ],
+      [
+        -1588,
+        1032,
+        0
+      ]
+    ]
+  },
+  "material_repairs": [
+    {
+      "original": "vehicle_",
+      "replacement": "models/biff/vehicle_generic_detail2",
+      "reason": "Original VMT absent in project and supplied transport packs; reuse matching detail/black material."
+    },
+    {
+      "original": "steed_black",
+      "replacement": "models/gtaiv/vehicles/minivan/black",
+      "reason": "Original VMT absent in project and supplied transport packs; reuse matching detail/black material."
+    }
+  ],
+  "brushes_skipped_tools": 16,
+  "materials": 188,
+  "canonical_materials": 31,
+  "map_tiles": 85,
+  "props": 45,
+  "collision_triangles": 56608,
+  "windows": 555,
+  "window_lit": 162,
+  "window_triangles": 1344
+}

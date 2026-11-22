@@ -1,0 +1,1432 @@
+{
+  "files": [
+    {
+      "path": "game/custom/project_assets/materials/church/art_glass_dark.vmt",
+      "sha256": "99eb2eaf8244f7bb6af2640415244b16a35e731220e4cee647ba2b1e40211714"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/art_glass_dark.vtf",
+      "sha256": "867eec6284cf7e68cd6009cde00ca4953e746f9700bb0ca702a4e34d565c53e5"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/art_grass.vmt",
+      "sha256": "b68bb020e6c1199088969430176250c02f268a7919214437203ff845a6818f34"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/art_iron.vmt",
+      "sha256": "e6e080414620bda8505b9e1a5a6f9cdbee7459d42771376b320b4376122ad840"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/art_iron_r10.vmt",
+      "sha256": "7a5e833563b78c4c24064c4291a32f36e48aea4d259272d1ad76917f5d0bb753"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/art_iron_r11.vmt",
+      "sha256": "7a5e833563b78c4c24064c4291a32f36e48aea4d259272d1ad76917f5d0bb753"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/art_iron_r12.vmt",
+      "sha256": "7a5e833563b78c4c24064c4291a32f36e48aea4d259272d1ad76917f5d0bb753"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/art_iron_r13.vmt",
+      "sha256": "7a5e833563b78c4c24064c4291a32f36e48aea4d259272d1ad76917f5d0bb753"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/art_iron_r2.vmt",
+      "sha256": "7a5e833563b78c4c24064c4291a32f36e48aea4d259272d1ad76917f5d0bb753"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/art_iron_r3.vmt",
+      "sha256": "7a5e833563b78c4c24064c4291a32f36e48aea4d259272d1ad76917f5d0bb753"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/art_iron_r4.vmt",
+      "sha256": "7a5e833563b78c4c24064c4291a32f36e48aea4d259272d1ad76917f5d0bb753"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/art_iron_r5.vmt",
+      "sha256": "7a5e833563b78c4c24064c4291a32f36e48aea4d259272d1ad76917f5d0bb753"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/art_plaster.vmt",
+      "sha256": "6f61aa464a94d76fa0ab3a2be8533860717193e074b2ebbda3fcca4c0b6488e0"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/art_sill.vmt",
+      "sha256": "c82f5342b9277b76e70b5d047f1f0b60772c1e8dfad7347b33fe7b02d79d4b61"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/batches/m0_0.vmt",
+      "sha256": "e8b693973b64798eb1ce6dc115c61cd0e9c261a423e7a7540ad6b8ed0c387690"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/batches/m0_1.vmt",
+      "sha256": "e8b693973b64798eb1ce6dc115c61cd0e9c261a423e7a7540ad6b8ed0c387690"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/batches/m0_10.vmt",
+      "sha256": "e8b693973b64798eb1ce6dc115c61cd0e9c261a423e7a7540ad6b8ed0c387690"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/batches/m0_3.vmt",
+      "sha256": "e8b693973b64798eb1ce6dc115c61cd0e9c261a423e7a7540ad6b8ed0c387690"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/batches/m0_4.vmt",
+      "sha256": "e8b693973b64798eb1ce6dc115c61cd0e9c261a423e7a7540ad6b8ed0c387690"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/batches/m0_5.vmt",
+      "sha256": "e8b693973b64798eb1ce6dc115c61cd0e9c261a423e7a7540ad6b8ed0c387690"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/batches/m0_7.vmt",
+      "sha256": "e8b693973b64798eb1ce6dc115c61cd0e9c261a423e7a7540ad6b8ed0c387690"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/batches/m0_8.vmt",
+      "sha256": "e8b693973b64798eb1ce6dc115c61cd0e9c261a423e7a7540ad6b8ed0c387690"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/batches/m0_9.vmt",
+      "sha256": "e8b693973b64798eb1ce6dc115c61cd0e9c261a423e7a7540ad6b8ed0c387690"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/batches/m3_10.vmt",
+      "sha256": "6a52e6243325afd445723ccecdcdc2ebf16dc2642cd13afb09a8f282411d1a15"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/batches/m3_3.vmt",
+      "sha256": "6a52e6243325afd445723ccecdcdc2ebf16dc2642cd13afb09a8f282411d1a15"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/batches/m3_4.vmt",
+      "sha256": "6a52e6243325afd445723ccecdcdc2ebf16dc2642cd13afb09a8f282411d1a15"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/batches/m3_7.vmt",
+      "sha256": "6a52e6243325afd445723ccecdcdc2ebf16dc2642cd13afb09a8f282411d1a15"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/batches/m3_8.vmt",
+      "sha256": "6a52e6243325afd445723ccecdcdc2ebf16dc2642cd13afb09a8f282411d1a15"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/batches/m3_9.vmt",
+      "sha256": "6a52e6243325afd445723ccecdcdc2ebf16dc2642cd13afb09a8f282411d1a15"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/door_frame.vmt",
+      "sha256": "3cc904da2aaf35d4ad3632a3e9deb69bc5179c34092b62ee4e9034d4f578b86b"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/door_hardware.vmt",
+      "sha256": "7042862d973ab0801ed51155952589650ac9d819405ba3b378520843a702291f"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/door_recess.vmt",
+      "sha256": "488f4c8ac7fab0e01603fbb65ab8474dc0b2fe3581b89689c5f56c6839b3289b"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/door_timber.vmt",
+      "sha256": "1bc862e8807285fb1cbe55505264db35c1ae728469c4896b4ac84d29e7d481e7"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/door_timber.vtf",
+      "sha256": "9ff39c70db8923cf1afb9c9094b03c112af5691c5da1ae9ec443a4babde5908b"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/drain_grate.vmt",
+      "sha256": "503b76d8a697a2ec62e9757bc675c45b6ba37c6927ed85b114c32e5598f930c0"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/drain_grate.vtf",
+      "sha256": "57b63556e105f747a44f9555976579ff20610a0d995720f408a764cf09697469"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/fence_metal.vmt",
+      "sha256": "c32a3bc9b9417256b2faee6f2345efd655f1969d3dd09c3cd6ae76ac1b5621c3"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/fence_metal.vtf",
+      "sha256": "397583440cd7f96eb48da03ccc6e27ae3daead7f6dbf66ffd7f4a95310557b55"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/fence_metal_r1.vmt",
+      "sha256": "4a6b9615f8e6e48673fa404aa873d6e3a5552ababe8699a3b0c50878d91318ee"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/fence_metal_r15.vmt",
+      "sha256": "4a6b9615f8e6e48673fa404aa873d6e3a5552ababe8699a3b0c50878d91318ee"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/fence_metal_r17.vmt",
+      "sha256": "4a6b9615f8e6e48673fa404aa873d6e3a5552ababe8699a3b0c50878d91318ee"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/fence_metal_r18.vmt",
+      "sha256": "4a6b9615f8e6e48673fa404aa873d6e3a5552ababe8699a3b0c50878d91318ee"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/fence_metal_r19.vmt",
+      "sha256": "4a6b9615f8e6e48673fa404aa873d6e3a5552ababe8699a3b0c50878d91318ee"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/fence_metal_r2.vmt",
+      "sha256": "4a6b9615f8e6e48673fa404aa873d6e3a5552ababe8699a3b0c50878d91318ee"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/fence_metal_r20.vmt",
+      "sha256": "4a6b9615f8e6e48673fa404aa873d6e3a5552ababe8699a3b0c50878d91318ee"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/fence_metal_r21.vmt",
+      "sha256": "4a6b9615f8e6e48673fa404aa873d6e3a5552ababe8699a3b0c50878d91318ee"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/fence_metal_r22.vmt",
+      "sha256": "4a6b9615f8e6e48673fa404aa873d6e3a5552ababe8699a3b0c50878d91318ee"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/fence_metal_r23.vmt",
+      "sha256": "4a6b9615f8e6e48673fa404aa873d6e3a5552ababe8699a3b0c50878d91318ee"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/fence_metal_r3.vmt",
+      "sha256": "4a6b9615f8e6e48673fa404aa873d6e3a5552ababe8699a3b0c50878d91318ee"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/fence_metal_r4.vmt",
+      "sha256": "4a6b9615f8e6e48673fa404aa873d6e3a5552ababe8699a3b0c50878d91318ee"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/fence_metal_r5.vmt",
+      "sha256": "4a6b9615f8e6e48673fa404aa873d6e3a5552ababe8699a3b0c50878d91318ee"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/fence_metal_r6.vmt",
+      "sha256": "4a6b9615f8e6e48673fa404aa873d6e3a5552ababe8699a3b0c50878d91318ee"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/fence_metal_r7.vmt",
+      "sha256": "4a6b9615f8e6e48673fa404aa873d6e3a5552ababe8699a3b0c50878d91318ee"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/fence_metal_r9.vmt",
+      "sha256": "4a6b9615f8e6e48673fa404aa873d6e3a5552ababe8699a3b0c50878d91318ee"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/fence_stone.vmt",
+      "sha256": "eeb758e25e30bd7a181f8bb0553ff241f26a5b23f4f788568622da6915db3c01"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/fence_stone.vtf",
+      "sha256": "b48281b2eaff78d234b26fe0bb3d96b376167fc0907cdcf3f8009e6cad5c8a73"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/granite.vmt",
+      "sha256": "7cd13363c6b9c9eb9432333c1443aef6bdec8e56315451068a137f47e9a69dc4"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/granite.vtf",
+      "sha256": "713710b671e91bc7110aea3ffca1006eab88b6e64399a696f212062c1f111dfe"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/gutter_surface.vmt",
+      "sha256": "dee7ebc47348d709170d6615adc9a8029bcafa343da872742526f904123d5854"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/gutter_surface.vtf",
+      "sha256": "d22bd167066fd6af6b5531f825a83854a6fc33c33aa71e199b824478facbc370"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/lawn_soil.vmt",
+      "sha256": "d6e7335eca352efc9d6cf51c67d3fb64c690fb97d9366bf816b6ff0747738b4c"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/lawn_soil.vtf",
+      "sha256": "d6ceec9641ec0cc8c00adbf8264b2cd3fad228ea6a9e5713ce75ab7471152811"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/path_edge.vtf",
+      "sha256": "0f60346bbc2a6e220831c6073b270cbb0bfadc0f218159975cc036f47af6079f"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/path_edge_0.vmt",
+      "sha256": "543a2bc91ca1cbf3a2930ef279897a5227a3611bc87b185366f4817169e3be3d"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_brick24.vmt",
+      "sha256": "2ff171a310b8a164b88b9965517deeaf3c401ff13a5f8ca6178b60b9e80b2c7b"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_brick24.vtf",
+      "sha256": "65b3e5f733123a5ec710d0349c382ef38ce1cdeef9a7568982017d44bb7218c9"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_brick24_0.vmt",
+      "sha256": "444df757362753b00e5435c7ae11cd913dcdab8f3bd34b7e419db54c9dc73866"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_brick24_1.vmt",
+      "sha256": "444df757362753b00e5435c7ae11cd913dcdab8f3bd34b7e419db54c9dc73866"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_brick24_10.vmt",
+      "sha256": "444df757362753b00e5435c7ae11cd913dcdab8f3bd34b7e419db54c9dc73866"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_brick24_11.vmt",
+      "sha256": "444df757362753b00e5435c7ae11cd913dcdab8f3bd34b7e419db54c9dc73866"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_brick24_3.vmt",
+      "sha256": "444df757362753b00e5435c7ae11cd913dcdab8f3bd34b7e419db54c9dc73866"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_brick24_4.vmt",
+      "sha256": "444df757362753b00e5435c7ae11cd913dcdab8f3bd34b7e419db54c9dc73866"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_brick24_5.vmt",
+      "sha256": "444df757362753b00e5435c7ae11cd913dcdab8f3bd34b7e419db54c9dc73866"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_brick24_6.vmt",
+      "sha256": "444df757362753b00e5435c7ae11cd913dcdab8f3bd34b7e419db54c9dc73866"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_brick24_8.vmt",
+      "sha256": "444df757362753b00e5435c7ae11cd913dcdab8f3bd34b7e419db54c9dc73866"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_brick24_9.vmt",
+      "sha256": "444df757362753b00e5435c7ae11cd913dcdab8f3bd34b7e419db54c9dc73866"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_church25.vmt",
+      "sha256": "7e56b223903406f28f9b2b8228de66b345ff5f548ecdd5e974c32f7e119ced37"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_church25.vtf",
+      "sha256": "f3cda7a2449554ebf39f5a6df92d46694d9e2d43e127f5d5dbc9ee7acecd18b0"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_churchbase25.vmt",
+      "sha256": "48c16c222df02da9540186bfe51d14aaa1bf8c5ed2a3c6036598630fd2e2d0d7"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_churchbase25.vtf",
+      "sha256": "fee19dfa0fb92145090f15fabe82775ab2133e931aedb0f87fe45a237e24b977"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_church_paving.vmt",
+      "sha256": "15a786951b9ffffa14fa1f2cbd0c1e0a57e36a2b9d06a92f5abc37bfe51ddb01"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_church_paving.vtf",
+      "sha256": "d360d1395c7257f58771e2439a194feabb4934b55e38e2a1e93f507b87de74d8"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_curb.vmt",
+      "sha256": "f879a53126870b6f031676fc10f3db6ed1906c33df87c267f5048276889c6005"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_curb.vtf",
+      "sha256": "42de5632340526f7fe8e5543d7f28dfe32301b1313bfa220f47467b9cbdf6e3b"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_frame26.vmt",
+      "sha256": "f87b136274687188b2d54fb7b1afdc57b9345071cb28a0a9d6ba404ac549ceb2"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_frame26.vtf",
+      "sha256": "9b7d7179f5f19eaeada36f4b15ed3bfd21624f5487106d481df835fe68b3895c"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_frame26_0.vmt",
+      "sha256": "ac59034a63efc810a7747803819e5557dce89c1df43b4ae5fca3947d088dd7f3"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_frame26_1.vmt",
+      "sha256": "ac59034a63efc810a7747803819e5557dce89c1df43b4ae5fca3947d088dd7f3"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_frame26_10.vmt",
+      "sha256": "ac59034a63efc810a7747803819e5557dce89c1df43b4ae5fca3947d088dd7f3"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_frame26_11.vmt",
+      "sha256": "ac59034a63efc810a7747803819e5557dce89c1df43b4ae5fca3947d088dd7f3"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_frame26_2.vmt",
+      "sha256": "ac59034a63efc810a7747803819e5557dce89c1df43b4ae5fca3947d088dd7f3"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_frame26_3.vmt",
+      "sha256": "ac59034a63efc810a7747803819e5557dce89c1df43b4ae5fca3947d088dd7f3"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_frame26_4.vmt",
+      "sha256": "ac59034a63efc810a7747803819e5557dce89c1df43b4ae5fca3947d088dd7f3"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_frame26_5.vmt",
+      "sha256": "ac59034a63efc810a7747803819e5557dce89c1df43b4ae5fca3947d088dd7f3"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_frame26_6.vmt",
+      "sha256": "ac59034a63efc810a7747803819e5557dce89c1df43b4ae5fca3947d088dd7f3"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_frame26_7.vmt",
+      "sha256": "ac59034a63efc810a7747803819e5557dce89c1df43b4ae5fca3947d088dd7f3"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_frame26_8.vmt",
+      "sha256": "ac59034a63efc810a7747803819e5557dce89c1df43b4ae5fca3947d088dd7f3"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_frame26_9.vmt",
+      "sha256": "ac59034a63efc810a7747803819e5557dce89c1df43b4ae5fca3947d088dd7f3"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_ground.vmt",
+      "sha256": "979c9d871f01c9494c63f552d833c1777c589b5f53b68728a3b04d8daf76d0de"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_ground.vtf",
+      "sha256": "79456ccd3d742a7d2b7f8e9516b947c26013dfe520b7e42a793e827423d8c196"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_house25.vmt",
+      "sha256": "5dee7019c2fb81ae0514337d99a28c4d9d1570bb310d2bd95677f06946967819"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_house25.vtf",
+      "sha256": "72dccdb21ded22e8d99d5c6a37992e8adc73abaf1f6d670368f9f73ed79629cb"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_house25_0.vmt",
+      "sha256": "0c1065b6d31db120d9ee522af3504fe4da756b47fd854b094958c5c6b0f8cd3d"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_house25_11.vmt",
+      "sha256": "0c1065b6d31db120d9ee522af3504fe4da756b47fd854b094958c5c6b0f8cd3d"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_house25_2.vmt",
+      "sha256": "0c1065b6d31db120d9ee522af3504fe4da756b47fd854b094958c5c6b0f8cd3d"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_house25_3.vmt",
+      "sha256": "0c1065b6d31db120d9ee522af3504fe4da756b47fd854b094958c5c6b0f8cd3d"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_house25_4.vmt",
+      "sha256": "0c1065b6d31db120d9ee522af3504fe4da756b47fd854b094958c5c6b0f8cd3d"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_house25_5.vmt",
+      "sha256": "0c1065b6d31db120d9ee522af3504fe4da756b47fd854b094958c5c6b0f8cd3d"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_house25_6.vmt",
+      "sha256": "0c1065b6d31db120d9ee522af3504fe4da756b47fd854b094958c5c6b0f8cd3d"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_house25_7.vmt",
+      "sha256": "0c1065b6d31db120d9ee522af3504fe4da756b47fd854b094958c5c6b0f8cd3d"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_house25_8.vmt",
+      "sha256": "0c1065b6d31db120d9ee522af3504fe4da756b47fd854b094958c5c6b0f8cd3d"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_house25_9.vmt",
+      "sha256": "0c1065b6d31db120d9ee522af3504fe4da756b47fd854b094958c5c6b0f8cd3d"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_plinth.vmt",
+      "sha256": "d440ff302b1ae9ffb05f72f619706c9b5865ba721faae624e1500e3573f854cd"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_plinth.vtf",
+      "sha256": "fee19dfa0fb92145090f15fabe82775ab2133e931aedb0f87fe45a237e24b977"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_plinth_0.vmt",
+      "sha256": "f335f9af48b99dc6d17857e9b21b3de09a4bb10a0c964776b6d70955a4ec8bb4"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_plinth_1.vmt",
+      "sha256": "f335f9af48b99dc6d17857e9b21b3de09a4bb10a0c964776b6d70955a4ec8bb4"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_plinth_10.vmt",
+      "sha256": "f335f9af48b99dc6d17857e9b21b3de09a4bb10a0c964776b6d70955a4ec8bb4"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_plinth_11.vmt",
+      "sha256": "f335f9af48b99dc6d17857e9b21b3de09a4bb10a0c964776b6d70955a4ec8bb4"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_plinth_2.vmt",
+      "sha256": "f335f9af48b99dc6d17857e9b21b3de09a4bb10a0c964776b6d70955a4ec8bb4"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_plinth_3.vmt",
+      "sha256": "f335f9af48b99dc6d17857e9b21b3de09a4bb10a0c964776b6d70955a4ec8bb4"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_plinth_4.vmt",
+      "sha256": "f335f9af48b99dc6d17857e9b21b3de09a4bb10a0c964776b6d70955a4ec8bb4"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_plinth_5.vmt",
+      "sha256": "f335f9af48b99dc6d17857e9b21b3de09a4bb10a0c964776b6d70955a4ec8bb4"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_plinth_6.vmt",
+      "sha256": "f335f9af48b99dc6d17857e9b21b3de09a4bb10a0c964776b6d70955a4ec8bb4"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_plinth_7.vmt",
+      "sha256": "f335f9af48b99dc6d17857e9b21b3de09a4bb10a0c964776b6d70955a4ec8bb4"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_plinth_8.vmt",
+      "sha256": "f335f9af48b99dc6d17857e9b21b3de09a4bb10a0c964776b6d70955a4ec8bb4"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_plinth_9.vmt",
+      "sha256": "f335f9af48b99dc6d17857e9b21b3de09a4bb10a0c964776b6d70955a4ec8bb4"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_road.vmt",
+      "sha256": "5523c6ae56f11f7b058ab482f8f91c3e731e8ffad1ae99f4acb8541e0f7ded7c"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_road.vtf",
+      "sha256": "7e5bd6b59d70064bba6fefdb139ec7500dea35275e600fbca4e1409d17116a01"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_roof26.vmt",
+      "sha256": "8532e2b2f2156a05a1748808f7378324301d584d6804ca79a393363b0e05efd4"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_roof26.vtf",
+      "sha256": "c5633ae365c21a062d6cb2b90869bbaec856caeac6ae1f28cc525fa9dc811d04"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_roof26_0.vmt",
+      "sha256": "ccc5a1548bdf2f0712a115e5beefef9429aa8e6ded07088c81b7eaa5da881164"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_roof26_1.vmt",
+      "sha256": "ccc5a1548bdf2f0712a115e5beefef9429aa8e6ded07088c81b7eaa5da881164"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_roof26_10.vmt",
+      "sha256": "ccc5a1548bdf2f0712a115e5beefef9429aa8e6ded07088c81b7eaa5da881164"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_roof26_11.vmt",
+      "sha256": "ccc5a1548bdf2f0712a115e5beefef9429aa8e6ded07088c81b7eaa5da881164"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_roof26_2.vmt",
+      "sha256": "ccc5a1548bdf2f0712a115e5beefef9429aa8e6ded07088c81b7eaa5da881164"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_roof26_3.vmt",
+      "sha256": "ccc5a1548bdf2f0712a115e5beefef9429aa8e6ded07088c81b7eaa5da881164"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_roof26_4.vmt",
+      "sha256": "ccc5a1548bdf2f0712a115e5beefef9429aa8e6ded07088c81b7eaa5da881164"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_roof26_5.vmt",
+      "sha256": "ccc5a1548bdf2f0712a115e5beefef9429aa8e6ded07088c81b7eaa5da881164"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_roof26_6.vmt",
+      "sha256": "ccc5a1548bdf2f0712a115e5beefef9429aa8e6ded07088c81b7eaa5da881164"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_roof26_7.vmt",
+      "sha256": "ccc5a1548bdf2f0712a115e5beefef9429aa8e6ded07088c81b7eaa5da881164"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_roof26_8.vmt",
+      "sha256": "ccc5a1548bdf2f0712a115e5beefef9429aa8e6ded07088c81b7eaa5da881164"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_roof26_9.vmt",
+      "sha256": "ccc5a1548bdf2f0712a115e5beefef9429aa8e6ded07088c81b7eaa5da881164"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_sidewalk24.vmt",
+      "sha256": "b72bee95cc170b258fc8b20334948a90e939a0f17a12bfc7a41b688828d76186"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_sidewalk24.vtf",
+      "sha256": "730c578d57dd58f40415478cb853b99326e0a6ea4d8b5dbb586eb918a97174c1"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_sidewalk24_10.vmt",
+      "sha256": "03a3ddee827cdb201ffc646c020d1a4ee5038f5532271a22ab631bdca9105e1a"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_sidewalk24_7.vmt",
+      "sha256": "03a3ddee827cdb201ffc646c020d1a4ee5038f5532271a22ab631bdca9105e1a"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_sidewalk24_9.vmt",
+      "sha256": "03a3ddee827cdb201ffc646c020d1a4ee5038f5532271a22ab631bdca9105e1a"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_trim26.vmt",
+      "sha256": "79a0950f0030f3b91d31cd916d8913a176ffc90c60fb1ac717e856b819c419a8"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_trim26.vtf",
+      "sha256": "701e9c706552e439168753620a99ce4bae361958fa38c80cbb5b3784d0d90d89"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_trim26_0.vmt",
+      "sha256": "3493644f4064870720080c03d3821e529a547f681cb91228988910f970e3efe6"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_trim26_1.vmt",
+      "sha256": "3493644f4064870720080c03d3821e529a547f681cb91228988910f970e3efe6"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_trim26_10.vmt",
+      "sha256": "3493644f4064870720080c03d3821e529a547f681cb91228988910f970e3efe6"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_trim26_11.vmt",
+      "sha256": "3493644f4064870720080c03d3821e529a547f681cb91228988910f970e3efe6"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_trim26_2.vmt",
+      "sha256": "3493644f4064870720080c03d3821e529a547f681cb91228988910f970e3efe6"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_trim26_3.vmt",
+      "sha256": "3493644f4064870720080c03d3821e529a547f681cb91228988910f970e3efe6"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_trim26_4.vmt",
+      "sha256": "3493644f4064870720080c03d3821e529a547f681cb91228988910f970e3efe6"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_trim26_5.vmt",
+      "sha256": "3493644f4064870720080c03d3821e529a547f681cb91228988910f970e3efe6"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_trim26_6.vmt",
+      "sha256": "3493644f4064870720080c03d3821e529a547f681cb91228988910f970e3efe6"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_trim26_7.vmt",
+      "sha256": "3493644f4064870720080c03d3821e529a547f681cb91228988910f970e3efe6"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_trim26_8.vmt",
+      "sha256": "3493644f4064870720080c03d3821e529a547f681cb91228988910f970e3efe6"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/user_trim26_9.vmt",
+      "sha256": "3493644f4064870720080c03d3821e529a547f681cb91228988910f970e3efe6"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/window_church_cool_0.vmt",
+      "sha256": "9af0b7b90272c91146d595ff2a0a1bc97c1dd33a8ef1aac38736720cc461ef47"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/window_church_cool_0.vtf",
+      "sha256": "0b43b196e61ea534b794a0861dce6932ce0620f1e803e64bb45014102f520869"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/window_church_warm_0.vmt",
+      "sha256": "efd3fdd732506696b38813c0644bf160878194a8d55b55bd13683b60557e6259"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/window_church_warm_0.vtf",
+      "sha256": "bac86658fe17b0c62f01baf35918838a3afbd5d5386b71cad339c09cd1206616"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/window_church_warm_2.vmt",
+      "sha256": "91c94ae1c34030e7aad0c209147f4f28d5d0919c69e4d228419d17381bf3aed3"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/window_church_warm_2.vtf",
+      "sha256": "e5049dd19e109042225ab44662ffb4a167c449120f38cdf9c38ec095035cd945"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/window_church_white_1.vmt",
+      "sha256": "21f3faf7346136879aec93698f32eb5ee004ab9716811aa60cdd949e2f62d948"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/window_church_white_1.vtf",
+      "sha256": "a5065d4ec6a6514a427f575d8cae2e2e63c89b6f24f3e7f1260bd3392a7e4ef9"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/window_dark.vmt",
+      "sha256": "78f7ec2f61f7072b40778a1675ad1a691dd1fb230ff207de6475ac05283a2e60"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/window_dark.vtf",
+      "sha256": "e603bcb5f6c13fbfbbaad8045c17d22e163573369e0137062257c782df448488"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/window_house_cool_0.vmt",
+      "sha256": "77f6040d3c98b280a17f56df1bd53421f16a3d95607dbc3bbb5d9471ba04d780"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/window_house_cool_0.vtf",
+      "sha256": "ba514a068a8a865b18fecd2a7dd41ef9cd686685390b3936d00b0a202db31597"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/window_house_cool_1.vmt",
+      "sha256": "21a451ac28f4704e07c74fff1b446d86519c177479cb1a6fe428486fa98a936f"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/window_house_cool_1.vtf",
+      "sha256": "d63a3635d3a737ae39f0fac1eeae0f94802772c94515ae6de06955dc9c1ae9b6"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/window_house_cool_2.vmt",
+      "sha256": "311decff2f314f1ea072642ab11ac4db55ca338c5b216e10ab9967bdf4c8614a"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/window_house_cool_2.vtf",
+      "sha256": "33ac72ac67cac7d220c973b5aa4b53a8af87c2da13e25a41e114a6160d8607df"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/window_house_warm_0.vmt",
+      "sha256": "3b1baea8e301dd2b7d9e774049ca2419721d5b55e7f0e66510afeeee7a72bb49"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/window_house_warm_0.vtf",
+      "sha256": "1460dd5c84f65e418f56564c140dbc73dfe363157fa7956ec348a820709ff2a8"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/window_house_warm_1.vmt",
+      "sha256": "0f419b99139a59f814e30839a52f344a3fb1b321b7000639193fb6512934944d"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/window_house_warm_1.vtf",
+      "sha256": "0a82ab50bdf485ba5658437d7675ced86faefd4b8fc8afb59a272d2cce8cf881"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/window_house_warm_2.vmt",
+      "sha256": "da9a94c6b0ba65fcfad9f6a91dc8b03b40b70188bf1b2f55504e08a07775e776"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/window_house_warm_2.vtf",
+      "sha256": "8b1f6c211c8f266db13b5c12fc099f1babbf9fc9e0b03897bfddf3ad30c55ab7"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/window_house_white_0.vmt",
+      "sha256": "6267af707bb30fdc9b62e14f90835719f0f9208197f323adfe5174e900e3ff0c"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/window_house_white_0.vtf",
+      "sha256": "8e322f1223a9201c5cc216be168a5780a38b4d0aaa6d7d50f632188138cebfcc"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/window_house_white_1.vmt",
+      "sha256": "ec640c891e87f6c27f479c4d8cdd913947eeff6de420269dc2ed9eeabe1626b9"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/window_house_white_1.vtf",
+      "sha256": "963d822a6605542e64fcf49a768e984e85653b4ebab61aa850e0482156eebbb3"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/window_house_white_2.vmt",
+      "sha256": "5ea04b6d5688a7cbf4c38800f39070938df246f6c2e5866b556c1fbdcc3ecca6"
+    },
+    {
+      "path": "game/custom/project_assets/materials/church/window_house_white_2.vtf",
+      "sha256": "0af54bcc5ef9a3fd8ae04b2eca7621c58905af363731a160a439803c029ade86"
+    },
+    {
+      "path": "game/custom/project_assets/materials/metal/metalpipe001a.vmt",
+      "sha256": "1cbc4f58b7e7bac802e3c4699e2f9b5a7d89c10187f69537c8dcf09c14b4abda"
+    },
+    {
+      "path": "game/custom/project_assets/materials/metal/metalpipe001a.vtf",
+      "sha256": "7c79f2f6d919f969084615bf7b4f2e241913bf739992f835f7773b45ab747409"
+    },
+    {
+      "path": "game/custom/project_assets/materials/metal/metalroof002a.vmt",
+      "sha256": "a99e5162884bcddd7f445bd292af920960afe956a67a81406a9c32d3093f9902"
+    },
+    {
+      "path": "game/custom/project_assets/materials/metal/metalroof002a.vtf",
+      "sha256": "c4978b52a4f8a9e2ea2b1b819ca3efbf2f544c6c9a28ac9ac7616f172537d8af"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/biff/8.vmt",
+      "sha256": "45cdf993bcccc46eca7f3e32b4a3a50a8bb0462a6705743d08fa3dead42f4c26"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/biff/8.vtf",
+      "sha256": "7515cac88a8c5d2952303ced74bc60b0e3e4c11d297aa9313ca916299cc90c49"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/biff/biff_badges.vmt",
+      "sha256": "2a987d65a60440b77c275ebe78419d196fbc61e99a9bb6a449fe490907c5c062"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/biff/biff_badges.vtf",
+      "sha256": "66abc2041758d4c93f838c46a8dd5ebae923216286faa9a388ce5fb722cfa3aa"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/biff/biff_stone.vmt",
+      "sha256": "4d1c1c0a54aa6ad5d73d6929d1abad3897727e70d7ab977b9cfef24a402015b0"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/biff/biff_stone.vtf",
+      "sha256": "a638d71b3669e014aad7f65cbd5ef9162b05f0093ee4b29ae0c0e21a0a91fe6b"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/biff/vehicle_generic_detail2.vmt",
+      "sha256": "2d40cf2bb5e98f0f128eeaef5cbc00f2a8b4d2e288fa009a5b8daf4dcc19fa4d"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/biff/vehicle_generic_detail2.vtf",
+      "sha256": "95580d67fab317cadc36aab933d68f069b786c044748b1a320044068fb83de39"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/biff/vehicle_generic_glasswindows2.vmt",
+      "sha256": "7e730e974c8734f9f543c3ce49ec787621fdbdb59d38ad58cc8bdf82195e12af"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/biff/vehicle_generic_glasswindows2.vtf",
+      "sha256": "c69f4e8d08198c05781ae087375784c5beaacf744fce208e63e6ca986ad7ca54"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/biff/vehicle_generic_truck_interior.vmt",
+      "sha256": "e291fd1274c7a094b1d25a99a3324f8ab3d75c7a6d000a4d530e74395e0ec030"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/biff/vehicle_generic_truck_interior.vtf",
+      "sha256": "b4b9b3259fe5ef57805314369e32e1f7d999d78579305c838b72ceaf36e7a1eb"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/biff/vehicle_generic_tyrewallblack.vmt",
+      "sha256": "3c036e0da9f56d1c425ad2e780033289781a0038c36fb9c9ac785b00c96f82dc"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/biff/vehicle_generic_tyrewallblack.vtf",
+      "sha256": "41470bf61e07de83745418556db4e74e9163e4f8b54291b7e538caa76b14005a"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/church/medic_/giat.vmt",
+      "sha256": "10de12374700fbe9b126de8f2f0fe56062007ddc41f40c568f9e2dfdc8458a75"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/church/medic_/giat.vtf",
+      "sha256": "3aadadad97eab959a51d711e5fcaeec9a50bc44a83d2ce391c61de1b88646ba2"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/church/police/giat.vmt",
+      "sha256": "5eaa09fe7a6e8ef51e67ab34619c675b56746e468c2dad10246e1d7a904a7541"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/church/police/giat.vtf",
+      "sha256": "3aadadad97eab959a51d711e5fcaeec9a50bc44a83d2ce391c61de1b88646ba2"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/dimidrol/furniture/2c724814.vmt",
+      "sha256": "dd4668a8f2686a9beceda5b54df8c22e5f4eb7f243efcea4e1938a548200e3ea"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/dimidrol/furniture/2c724814.vtf",
+      "sha256": "9860122522c11452e751b773259b133ae933aab59c664d635f5176ea022dfeda"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/dimidrol/pole/e1a27f9d.vmt",
+      "sha256": "d7fb296dd89e873bdff911bc46fcdf4d927736e2036abc9ef022cf99178028b3"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/dimidrol/pole/e1a27f9d.vtf",
+      "sha256": "63f381bcd62102b76975574b0fe9cfe32fe4ec2459a88c45904c1418d00cc5c6"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/dinus/fabia.vmt",
+      "sha256": "db9813e0501ab2aef5ed9637e73fe652684f32fdfffcb8192cd60ef13bf50713"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/dinus/fabia.vtf",
+      "sha256": "c139dd3ac3edd3b7beb493b79d2bf073767bb1ed0454980a397bb181515b06b6"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/dinus/octavia.vmt",
+      "sha256": "fa9053b2018b728ac8ee3b45847b756661279096265ab41756d32d597e2b78b3"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/dinus/octavia.vtf",
+      "sha256": "81cb97af83c6dd68d23002611bb677b886650f77712fe86fab5cde9e2b220fff"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/gtaiv/vehicles/minivan/black.vmt",
+      "sha256": "7d3ef7955f95b7d48fc3e20b629b1b2abdae7e8029c0571e7bc7d92cf67c9a5c"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/gtaiv/vehicles/minivan/black.vtf",
+      "sha256": "fe3c734c7feef1348c8286bbcebc3aa54f10597325c05842a56f2090bea9846c"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/gtaiv/vehicles/minivan/cabby_interior.vmt",
+      "sha256": "1b48b58c83f04fda8b913761faf67fc3089c2b829a492798813f97ccaf464a72"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/gtaiv/vehicles/minivan/cabby_interior.vtf",
+      "sha256": "a1dd8ac827253a8937afcd9e0f0610b98dc9946f6bd6048ffc999d407a681587"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/gtaiv/vehicles/minivan/minivan_badges.vmt",
+      "sha256": "0fef04da73b42093762fc0a531e5dfbe17849327910e67908ab7bee5f40d95a0"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/gtaiv/vehicles/minivan/minivan_badges.vtf",
+      "sha256": "596d3d9f8539ff97af686fdf947d53bcbb5ddf45cb6f1f508274b3e79d8b47f0"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/gtaiv/vehicles/minivan/taxivan_lights_glass.vmt",
+      "sha256": "df9316b20d2abeb64e71e5c226a70c33da8094fc45de01997d647d14a437f5c4"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/gtaiv/vehicles/minivan/taxivan_lights_glass.vtf",
+      "sha256": "ded104954e6f0ff6446a346fb6ed572c423e6316b211a8cc5ab00630fbc1ab55"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/gtaiv/vehicles/vehicle_generic_detail2.vmt",
+      "sha256": "2eea6257b140ecb52d6b8082b6dcf01574c1643a196c429214e60edbe23ac072"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/gtaiv/vehicles/vehicle_generic_detail2.vtf",
+      "sha256": "8e1a534f7fd063f25baf4128698025f41920258433aed392d7f6eaaec45b3415"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/gtaiv/vehicles/vehicle_generic_doorshut.vmt",
+      "sha256": "b14a0f14cfab46e3c2171f81c614e02e93f7d5410756c97310e0c38d5b9c116e"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/gtaiv/vehicles/vehicle_generic_doorshut.vtf",
+      "sha256": "c392eafe0b7fdf768a9fdad26d2e6191e6297a755d233118c0534164fd5a35bf"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/gtaiv/vehicles/vehicle_generic_glasswindows2.vmt",
+      "sha256": "cfca6cafad4e13d38ab6e5f969812b9b661e605aab434f786a5a237b5b8e031e"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/gtaiv/vehicles/vehicle_generic_glasswindows2.vtf",
+      "sha256": "bcc8cc134c3da76ed6c882d5ca3fc12981861c76e8bc14c473537da0f292ea0d"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/gtaiv/vehicles/vehicle_generic_tyrewallblack.vmt",
+      "sha256": "7b05788efe5c943e74eada9ab88dadb02bd2f70674846e8c681e6dccb28d27ab"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/gtaiv/vehicles/vehicle_generic_tyrewallblack.vtf",
+      "sha256": "8c2d64cc803aec0244b2ff627246f99bb220f9c3dc6cb9999574762cfa018535"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/pg_props/pg_forest/pg_tree01_branch.vmt",
+      "sha256": "3df05a0bf19d46dfc9e1f7fd6015b1e081f07c4eb5b077cf88ea80a2d0280936"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/pg_props/pg_forest/pg_tree01_branch.vtf",
+      "sha256": "fea44143443e709cf805733ec778432b0e6c210e93c32ac9baf406228534a4ac"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/pg_props/pg_forest/pg_tree01_leafs.vmt",
+      "sha256": "d8699ab1fd1c9d3618c677923160fefa3753f8250d6ad4fc657c2288bf51d3b0"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/pg_props/pg_forest/pg_tree01_leafs.vtf",
+      "sha256": "4cc3666256a916ef52697af8a3a084351179a10ac57b7cc2552e7545f9a4dc7a"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/pg_props/pg_forest/pg_tree01_trunk.vmt",
+      "sha256": "84496e89750c0c06d9159869e2ce4df71bffe8be48bdc44f5f40901012c384e2"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/pg_props/pg_forest/pg_tree01_trunk.vtf",
+      "sha256": "4250cc76f6f3ed297c0e020953505e42592cc29a06e7b4b8f43179c9f7681f6d"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/pg_props/pg_forest/pg_tree01_trunk02.vmt",
+      "sha256": "256f73d22ec0b5f53898a8b8514a84478128e8ae3860d068a469beb6ad49b380"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/pg_props/pg_forest/pg_tree01_trunk02.vtf",
+      "sha256": "785827b389afb8ebb42cc251f3ba9f6120df907df0fe398023330290c60ce682"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/vehicles/bus_interior_map.vmt",
+      "sha256": "7473dafe3a55e500fb299cfdf7b3638607fed14205c779b1c1bc0c73c7b0b53d"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/vehicles/bus_interior_map.vtf",
+      "sha256": "fb5fd97c61b0efeebe8501f5c20ea50bc143da4002a526657cbf25553e1b5cb1"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/vehicles/bus_map.vmt",
+      "sha256": "4196a7a4898c2c02baf284567932da1945fe109872c4391275779ff35ce0c3a4"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/vehicles/bus_map.vtf",
+      "sha256": "77273b81838b33f354f8411180abaf0be5e2310beb7003fdbf4279fee059977a"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/vehicles/bus_windows.vmt",
+      "sha256": "ee27a3169d0b39d5e11e79c6cd5e2e5fbd88fa7a11770e5d03f64fd6762d8207"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/vehicles/bus_windows.vtf",
+      "sha256": "f22cb9835054a202996b60cdb8f6d359ef840ba54af4e2d1c38a4cd9ed200c53"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/vehicles/civ_golf.vmt",
+      "sha256": "6ed228791445f788d6cb7f7f222fbb31ff768f7f6ac35412a8d6bc332c12f5c7"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/vehicles/civ_golf.vtf",
+      "sha256": "6643458031cf7fd4203e31225307a586ccc1366ce1b420987fe715a149a59a21"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/vehicles/mercedes190_mesh.vmt",
+      "sha256": "76ff3415c6b9c3d8ff190831ad98bb14b1f42735d012672de83eb85e79e0f721"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/vehicles/mercedes190_mesh.vtf",
+      "sha256": "afe61aec9f69e3ea8d94b2ca67d12bd44761bfd9a754a8728dc835f6fd2f50a3"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/vehicles/mercedes190_mesh2.vmt",
+      "sha256": "a680063c82979d36a915a139b1a667940c1c0c8251959594027f6c753e7cc2d9"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/vehicles/mercedes190_mesh2.vtf",
+      "sha256": "4cf78261a57f1a1241a384a6f8af08d5c1666736481b421d4bacab1fb61d3fac"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/vehicles/nissan/glass.vmt",
+      "sha256": "2cf957f4bef7dab92e9b446aa1a860a981ecb283601f8d18ee1d1b023c2fe262"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/vehicles/nissan/glass.vtf",
+      "sha256": "7b4c10241be7d413a905bab64fee26cd3a6f55829b7c7f2b8e3238b74347507c"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/vehicles/nissan/green.vmt",
+      "sha256": "c666d70ac482f925ec539d3af933dad081dc73ac2e9bc11c9b29c9d55be94d7b"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/vehicles/nissan/green.vtf",
+      "sha256": "0c43489fd78c1be61821a27a7ec2a80b6d336b31bd9afe1d896e7ced7f0bb48a"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/yankee/8.vmt",
+      "sha256": "ad7905482eb006ef1ccc0e63a17ea5b1e6b0d70ad7e61cbc49616bc76b36abf4"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/yankee/8.vtf",
+      "sha256": "7515cac88a8c5d2952303ced74bc60b0e3e4c11d297aa9313ca916299cc90c49"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/yankee/vehicle_generic_detail2.vmt",
+      "sha256": "f3403958ff94498b6d06e740368de691046fbd9b591b99160bbbc80e9b2cb5f9"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/yankee/vehicle_generic_detail2.vtf",
+      "sha256": "95580d67fab317cadc36aab933d68f069b786c044748b1a320044068fb83de39"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/yankee/vehicle_generic_glasswindows2.vmt",
+      "sha256": "e9c800b36edb00dec205101bb9bed869e48613a96b3af34d06501eabf4c8b462"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/yankee/vehicle_generic_glasswindows2.vtf",
+      "sha256": "c69f4e8d08198c05781ae087375784c5beaacf744fce208e63e6ca986ad7ca54"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/yankee/vehicle_generic_truck_interior.vmt",
+      "sha256": "89771fa7be3040873a2987c49b86bf7d6a81f3e566175bdfff08a5c67747eb76"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/yankee/vehicle_generic_truck_interior.vtf",
+      "sha256": "b4b9b3259fe5ef57805314369e32e1f7d999d78579305c838b72ceaf36e7a1eb"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/yankee/vehicle_generic_tyrewallblack.vmt",
+      "sha256": "35c5e800987f6fab98c50946bfc946d3100873a107ca1392c4ca7eac50fb4c21"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/yankee/vehicle_generic_tyrewallblack.vtf",
+      "sha256": "41470bf61e07de83745418556db4e74e9163e4f8b54291b7e538caa76b14005a"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/yankee/yankee_badges.vmt",
+      "sha256": "451f191233c48b9a61b722ea3fa89200fcf6a8c085d7f950221d808f44ec1502"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/yankee/yankee_badges.vtf",
+      "sha256": "a643fca98214756e69036265f4eca5cd8f32bd3f28878ce0681da27a1bbed67b"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/yankee/yankee_signs.vmt",
+      "sha256": "dcd783a48c49ee937caf5656ffa9e2d40b2a89ae877844d09eabd05e31c42a74"
+    },
+    {
+      "path": "game/custom/project_assets/materials/models/yankee/yankee_signs.vtf",
+      "sha256": "ffd9606de2dfd9c839c076d2e517fa063e6d262f8eac46e8729779e5c907ab65"
+    },
+    {
+      "path": "game/custom/project_assets/materials/nature/grassfloor002a.vtf",
+      "sha256": "f57a7454973546ebaf5787f1100c334f49efad33c6c15d6171e35d6643a0ce83"
+    },
+    {
+      "path": "game/custom/project_assets/materials/skybox/church_nightbk.vtf",
+      "sha256": "94b3f336af0d6763bc6876e2cf1fd163e454140ac0c937c3e1e6651b27b90010"
+    },
+    {
+      "path": "game/custom/project_assets/materials/skybox/church_nightdn.vtf",
+      "sha256": "ea1c8c3c8eb515e80e7d9a051c6a7c1da5502f565528595344d95257a90f42b5"
+    },
+    {
+      "path": "game/custom/project_assets/materials/skybox/church_nightft.vtf",
+      "sha256": "e6cae8bf3c303843fd872a5bb2bb8b3662af9843536cd8694215c276987ebd3f"
+    },
+    {
+      "path": "game/custom/project_assets/materials/skybox/church_nightlf.vtf",
+      "sha256": "ea0d8675b1d9f2c724a082a212429214f429b53a3408c8b91cc0258db140d465"
+    },
+    {
+      "path": "game/custom/project_assets/materials/skybox/church_nightrt.vtf",
+      "sha256": "d82696c7fff4966d77666bd2fa006309d49b91ff21c4f723356cd972d6ea7981"
+    },
+    {
+      "path": "game/custom/project_assets/materials/skybox/church_nightup.vtf",
+      "sha256": "d43f32437effffba27494f4786ec07ea90c4761ea3a5778620291787ad465e58"
+    },
+    {
+      "path": "game/custom/project_assets/materials/sprites/light_glow02.vtf",
+      "sha256": "bfc8803a2feeb2c3ba87217d44ad4878630d9fa2059c1e1c43a747851e403b34"
+    },
+    {
+      "path": "game/custom/project_assets/materials/sprites/light_glow02_add.vmt",
+      "sha256": "86efcf1316a69901013e0887f5f61950f1403f0f99186ea8ae4a3d161d41b04a"
+    },
+    {
+      "path": "game/custom/project_assets/materials/wood/wooddoor002a.vmt",
+      "sha256": "9575b389bc2d936808e1584fe70f0ea42a2d1fae7eada55efe4260b316a1af67"
+    },
+    {
+      "path": "game/custom/project_assets/materials/wood/wooddoor002a.vtf",
+      "sha256": "b8f1620371d154284867e27cf36cf482d15f56aab38652b4a07a911ff104e9c9"
+    },
+    {
+      "path": "game/custom/project_assets/models/biff.dx90.vtx",
+      "sha256": "ea796f0d62984e98725fb0bbe73c0f2a58cca9f63918486340c861769454b491"
+    },
+    {
+      "path": "game/custom/project_assets/models/biff.mdl",
+      "sha256": "63be7f4d2c1cbd0fc13027c112e480098db4aa6fc825593ac0bd4226faf714af"
+    },
+    {
+      "path": "game/custom/project_assets/models/biff.vvd",
+      "sha256": "8c7d726521d7c7c80ab2f05c2520decae95f91d781d92771f351d99a6aa29237"
+    },
+    {
+      "path": "game/custom/project_assets/models/church_medic_.dx90.vtx",
+      "sha256": "7eedb907bf0c71d05b4b8a222d4973efdf4d9b525ed5666e8f50d98f51ddd930"
+    },
+    {
+      "path": "game/custom/project_assets/models/church_medic_.mdl",
+      "sha256": "78c3b03f677f39dba1d9eb513149b10121546f4677f54acff849f5d5fa5630be"
+    },
+    {
+      "path": "game/custom/project_assets/models/church_medic_.vvd",
+      "sha256": "b39e8fe4419d25c968851d5fc924fb485374c50c9ac4945ca3153c45b4c569e9"
+    },
+    {
+      "path": "game/custom/project_assets/models/church_police.dx90.vtx",
+      "sha256": "7eedb907bf0c71d05b4b8a222d4973efdf4d9b525ed5666e8f50d98f51ddd930"
+    },
+    {
+      "path": "game/custom/project_assets/models/church_police.mdl",
+      "sha256": "e8df3c6c8107568e4e2f8c9b1db671b995c9798c01e117a720488a7652b224e5"
+    },
+    {
+      "path": "game/custom/project_assets/models/church_police.vvd",
+      "sha256": "b39e8fe4419d25c968851d5fc924fb485374c50c9ac4945ca3153c45b4c569e9"
+    },
+    {
+      "path": "game/custom/project_assets/models/dean/gtaiv/vehicles/minivan.dx90.vtx",
+      "sha256": "dc1b45b81b1821b8bedd4edd1a72bd9c4ea0c214ae72bd97ffcf7abd72d7f455"
+    },
+    {
+      "path": "game/custom/project_assets/models/dean/gtaiv/vehicles/minivan.mdl",
+      "sha256": "cf6799f6a7f2a78d3af04335af3edebc8cd259a2be264f5034899ebdffc22cee"
+    },
+    {
+      "path": "game/custom/project_assets/models/dean/gtaiv/vehicles/minivan.vvd",
+      "sha256": "f5ccc3f166bd91fc49ab84e4c783b167089490b88bea060972d6957c6c313509"
+    },
+    {
+      "path": "game/custom/project_assets/models/dimidrol/furniture/bench_x2_01.dx90.vtx",
+      "sha256": "fcf599a1935991d5d5ea6a1c551613f5f0dad2184f747825f6cd5cbd391dcffc"
+    },
+    {
+      "path": "game/custom/project_assets/models/dimidrol/furniture/bench_x2_01.mdl",
+      "sha256": "861d0e5d7ddee6fe6249e34a4faddf25005626b5f630c4961e5b9111e93ef6c9"
+    },
+    {
+      "path": "game/custom/project_assets/models/dimidrol/furniture/bench_x2_01.vvd",
+      "sha256": "3053ae9972f409c2b577e7d28c185c0b5488f2d11a2dd163973b2a4ef8b7ac63"
+    },
+    {
+      "path": "game/custom/project_assets/models/dimidrol/pole/pole_cod4_02.dx90.vtx",
+      "sha256": "992cc02d566b84febda7f8caa9383c914f2fa92bb864818bbd30b38be33aeb55"
+    },
+    {
+      "path": "game/custom/project_assets/models/dimidrol/pole/pole_cod4_02.mdl",
+      "sha256": "a6814aeb906bef6f6594f8650114a5b04483ef4730d53170cf2f3a36ad4c9cc9"
+    },
+    {
+      "path": "game/custom/project_assets/models/dimidrol/pole/pole_cod4_02.vvd",
+      "sha256": "165d9f6dae9e01a7a4c805e2e3c09fcb38f26fc8583ea42e241b9ce78fe5addc"
+    },
+    {
+      "path": "game/custom/project_assets/models/dinus/fabia.dx90.vtx",
+      "sha256": "d1d625dc5e8cb3018ed974426978531408247a5c2f3cef1a4622ffbdb57fa74e"
+    },
+    {
+      "path": "game/custom/project_assets/models/dinus/fabia.mdl",
+      "sha256": "3dbd4ca5aec806096014ff05d2bcbdbee7b781e8691eb3aace96312f0f851001"
+    },
+    {
+      "path": "game/custom/project_assets/models/dinus/fabia.vvd",
+      "sha256": "0ce7b3744b75591700351e22f11ed6e24ea0a224592a03afaa89e8b77f8cb0bf"
+    },
+    {
+      "path": "game/custom/project_assets/models/dinus/octavia.dx90.vtx",
+      "sha256": "1371cf49a0ef86f2d9be4907b56e35cf51c23383a30ec7413ab830145ca65829"
+    },
+    {
+      "path": "game/custom/project_assets/models/dinus/octavia.mdl",
+      "sha256": "5df42091f52d1a2b75cd5cceb8767147ff9e24dfbea74fea0538ddefeaff3cca"
+    },
+    {
+      "path": "game/custom/project_assets/models/dinus/octavia.vvd",
+      "sha256": "f7cbca08a816140e03216203940a153e2d23e2b80cfc0f0d2b74530f522e7921"
+    },
+    {
+      "path": "game/custom/project_assets/models/pg_props/pg_forest/pg_tree01.dx90.vtx",
+      "sha256": "31666ecc5530f0f05397e89989fa7bf3a8534ca7871ca5e2cc9cac0625517c9c"
+    },
+    {
+      "path": "game/custom/project_assets/models/pg_props/pg_forest/pg_tree01.mdl",
+      "sha256": "3fac87c7eec1e7abec339989276a7eacdd3d2ce3b83c0dc0e0bef7f2549d1d75"
+    },
+    {
+      "path": "game/custom/project_assets/models/pg_props/pg_forest/pg_tree01.vvd",
+      "sha256": "aa915ad9cc7b364f749a87996ab020784712c83c282b80d453844f486300a765"
+    },
+    {
+      "path": "game/custom/project_assets/models/pg_props/pg_forest/pg_tree02.dx90.vtx",
+      "sha256": "803c89ee345e8fe603f65a5ca017b6a7b324de4cc0a60fb3ee700f5af0b4200c"
+    },
+    {
+      "path": "game/custom/project_assets/models/pg_props/pg_forest/pg_tree02.mdl",
+      "sha256": "95141c1efbc2a2907950dc34f9c068a277b28646822eca7b7de203c6ed0d6cc7"
+    },
+    {
+      "path": "game/custom/project_assets/models/pg_props/pg_forest/pg_tree02.vvd",
+      "sha256": "18f21b21c92ffcba631a3e38a8c51c74dff457cdb7cb39504606595a77ff7626"
+    },
+    {
+      "path": "game/custom/project_assets/models/vehicles/civ_bus_lod.dx90.vtx",
+      "sha256": "2f25eafccf6be4d199a757c12912cd3968014e20d358272448153bad5a736aaa"
+    },
+    {
+      "path": "game/custom/project_assets/models/vehicles/civ_bus_lod.mdl",
+      "sha256": "0141d89992a22691c3ea2abdfe1975400a6034c4846c5e0a301caa90794392ee"
+    },
+    {
+      "path": "game/custom/project_assets/models/vehicles/civ_bus_lod.vvd",
+      "sha256": "5a8c8e3bb8dc467abbfc5dbd871dc2e4b70923213f981e7d2433bab2360a4417"
+    },
+    {
+      "path": "game/custom/project_assets/models/vehicles/civ_golf.dx90.vtx",
+      "sha256": "e03d92160e2d0600bc856099dd9202f72051c198f18ef8ebc5c93d034d69d886"
+    },
+    {
+      "path": "game/custom/project_assets/models/vehicles/civ_golf.mdl",
+      "sha256": "bfbcffa9b57c7ed4947ffb5c1ea027b35d3dccdab94bdced2ea2ff9800c71719"
+    },
+    {
+      "path": "game/custom/project_assets/models/vehicles/civ_golf.vvd",
+      "sha256": "d38655a7e8a4784c045c7732220fd70c2ae2326ba8d9b8dba327cb5e33490372"
+    },
+    {
+      "path": "game/custom/project_assets/models/vehicles/civ_mercedes.dx90.vtx",
+      "sha256": "6e84a079c3c44930e4a1594761338b0524622adfab4dd7b990778afda67f36dc"
+    },
+    {
+      "path": "game/custom/project_assets/models/vehicles/civ_mercedes.mdl",
+      "sha256": "3484fb9f9315819cbd63d0b135673ca2d314bd2dae55eb15a6caf7eb7f9bd28d"
+    },
+    {
+      "path": "game/custom/project_assets/models/vehicles/civ_mercedes.vvd",
+      "sha256": "b6f25bc71a4a8b6b9dc6f316bf4f97248066fa5f7d24cdc929a42505a44afe48"
+    },
+    {
+      "path": "game/custom/project_assets/models/vehicles/civ_pickup.dx90.vtx",
+      "sha256": "fece5c6ea677821530677c3957e13d0e2a53fc28b0f31d65ef7b2f60e540ffc5"
+    },
+    {
+      "path": "game/custom/project_assets/models/vehicles/civ_pickup.mdl",
+      "sha256": "26b060672beb2da67545806db0d97a5db7c18dd1a91ef9678f6c3e5eabf08dfc"
+    },
+    {
+      "path": "game/custom/project_assets/models/vehicles/civ_pickup.vvd",
+      "sha256": "bcdf74fc8b6ba63e6f2c1898740e97f12613688aec1d348b0d3cad365f197642"
+    },
+    {
+      "path": "game/custom/project_assets/models/yankee.dx90.vtx",
+      "sha256": "080a43b38319dfa67bcf568fc8ee93be430bdff14e16be6aa7053ee841467a1f"
+    },
+    {
+      "path": "game/custom/project_assets/models/yankee.mdl",
+      "sha256": "c4150c5e3c6aa59565ec785c42a699fae757a249f8d126eaca067e2610613337"
+    },
+    {
+      "path": "game/custom/project_assets/models/yankee.vvd",
+      "sha256": "d25624cecf02a078913450fc665c49be8cb9cbbe6195b1c8fb3c93fd14fb091f"
+    },
+    {
+      "path": "game/custom/project_assets/sound/church/rain_loop.wav",
+      "sha256": "936ca28354ba92223334e5ec7c9911935dcd72d4d87042a6bab6400c6979710a"
+    },
+    {
+      "path": "game/custom/project_assets/sound/church/wind_loop.wav",
+      "sha256": "9c75446421140659aef8906b7fc21a27c10f49b76bc86608357de4ff73b2964b"
+    },
+    {
+      "path": "game/custom/project_assets/sound/player/footsteps/concrete1.wav",
+      "sha256": "85867017656cd17de737899bdc5862f65640db88fc201f3ae8ecfda2adc2219e"
+    },
+    {
+      "path": "game/custom/project_assets/sound/player/footsteps/concrete2.wav",
+      "sha256": "6c4b3b259ff587e10ce8a0f29a4f6f3893ec09827dd9ebece02af1c5cdab8d59"
+    },
+    {
+      "path": "game/custom/project_assets/sound/player/footsteps/concrete3.wav",
+      "sha256": "e999e87c476ded482cde59403f4e531982fbadbea15e00de9602e823dd3e4946"
+    },
+    {
+      "path": "game/custom/project_assets/sound/player/footsteps/concrete4.wav",
+      "sha256": "01b430b9f15dbbbef44da1bc05ee47d56c5e39ac2ef41ff0eb4c8eb422a54beb"
+    },
+    {
+      "path": "game/custom/project_assets/sound/player/footsteps/dirt1.wav",
+      "sha256": "ebeaf161d24ebf7b1eff20364a62514f8e68cbc298f3cb46cd2dbd98e5a21ffb"
+    },
+    {
+      "path": "game/custom/project_assets/sound/player/footsteps/dirt2.wav",
+      "sha256": "9a28a338448b4ad071ec69518b0c04aba656d9467df584da1343c033df42f639"
+    },
+    {
+      "path": "game/custom/project_assets/sound/player/footsteps/dirt3.wav",
+      "sha256": "0a410469dc289e631fd9be5b6c236810e752a477b89483e5eafa8810a4e8a332"
+    },
+    {
+      "path": "game/custom/project_assets/sound/player/footsteps/dirt4.wav",
+      "sha256": "9218a4aeb5219deedacc9af73fadfca7d4445b0b5d6fb48903fb9aacfd66ad5b"
+    },
+    {
+      "path": "game/custom/project_assets/sound/player/footsteps/grass1.wav",
+      "sha256": "ebeaf161d24ebf7b1eff20364a62514f8e68cbc298f3cb46cd2dbd98e5a21ffb"
+    },
+    {
+      "path": "game/custom/project_assets/sound/player/footsteps/grass2.wav",
+      "sha256": "9a28a338448b4ad071ec69518b0c04aba656d9467df584da1343c033df42f639"
+    },
+    {
+      "path": "game/custom/project_assets/sound/player/footsteps/grass3.wav",
+      "sha256": "0a410469dc289e631fd9be5b6c236810e752a477b89483e5eafa8810a4e8a332"
+    },
+    {
+      "path": "game/custom/project_assets/sound/player/footsteps/grass4.wav",
+      "sha256": "9218a4aeb5219deedacc9af73fadfca7d4445b0b5d6fb48903fb9aacfd66ad5b"
+    },
+    {
+      "path": "game/custom/project_assets/sound/player/footsteps/metal1.wav",
+      "sha256": "e96c4823e7e0dd23fe759756c8925cff90b90600c263b5548d4f3c747bf1e122"
+    },
+    {
+      "path": "game/custom/project_assets/sound/player/footsteps/metal2.wav",
+      "sha256": "a5b837b6b9dc6fe8c1ac3190a4a3db63d02f89ab95c4bb09951c9faa888d8741"
+    },
+    {
+      "path": "game/custom/project_assets/sound/player/footsteps/metal3.wav",
+      "sha256": "c68bdf2e35f6e0db0b15d7b9f53c78f1e2708539633b0135c5a4164159f27ce6"
+    },
+    {
+      "path": "game/custom/project_assets/sound/player/footsteps/metal4.wav",
+      "sha256": "c02b7095e0822173d1492528e7681d8696ac17bb15403b339181b4fae670d49d"
+    },
+    {
+      "path": "game/custom/project_assets/sound/player/footsteps/metalgrate1.wav",
+      "sha256": "e96c4823e7e0dd23fe759756c8925cff90b90600c263b5548d4f3c747bf1e122"
+    },
+    {
+      "path": "game/custom/project_assets/sound/player/footsteps/metalgrate2.wav",
+      "sha256": "a5b837b6b9dc6fe8c1ac3190a4a3db63d02f89ab95c4bb09951c9faa888d8741"
+    },
+    {
+      "path": "game/custom/project_assets/sound/player/footsteps/metalgrate3.wav",
+      "sha256": "c68bdf2e35f6e0db0b15d7b9f53c78f1e2708539633b0135c5a4164159f27ce6"
+    },
+    {
+      "path": "game/custom/project_assets/sound/player/footsteps/metalgrate4.wav",
+      "sha256": "c02b7095e0822173d1492528e7681d8696ac17bb15403b339181b4fae670d49d"
+    },
+    {
+      "path": "game/custom/project_assets/sound/player/footsteps/tile1.wav",
+      "sha256": "85867017656cd17de737899bdc5862f65640db88fc201f3ae8ecfda2adc2219e"
+    },
+    {
+      "path": "game/custom/project_assets/sound/player/footsteps/tile2.wav",
+      "sha256": "6c4b3b259ff587e10ce8a0f29a4f6f3893ec09827dd9ebece02af1c5cdab8d59"
+    },
+    {
+      "path": "game/custom/project_assets/sound/player/footsteps/tile3.wav",
+      "sha256": "e999e87c476ded482cde59403f4e531982fbadbea15e00de9602e823dd3e4946"
+    },
+    {
+      "path": "game/custom/project_assets/sound/player/footsteps/tile4.wav",
+      "sha256": "01b430b9f15dbbbef44da1bc05ee47d56c5e39ac2ef41ff0eb4c8eb422a54beb"
+    },
+    {
+      "path": "game/custom/project_assets/sound/sound.cache",
+      "sha256": "f083de0c8947282d44dd94e5ee25f677082598268dfa8b9347233b6b3212a20d"
+    },
+    {
+      "path": "maps/church_block.vmf",
+      "sha256": "7c0edf61dbff6e1e5a26cb3d24b4fadeaeba4d6f7b36003f37cdf78d21b2e603"
+    }
+  ]
+}

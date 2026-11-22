@@ -1,0 +1,27 @@
+{
+  "failed": [],
+  "passed": [
+    "One bounded convex proxy: Prop_22106",
+    "One bounded convex proxy: Prop_22107",
+    "One bounded convex proxy: Prop_22108",
+    "One bounded convex proxy: Prop_22109",
+    "One bounded convex proxy: Prop_22110",
+    "One bounded convex proxy: Prop_22111",
+    "One bounded convex proxy: Prop_22112",
+    "One bounded convex proxy: Prop_22113",
+    "One bounded convex proxy: Prop_22114",
+    "One bounded convex proxy: Prop_22115",
+    "One bounded convex proxy: Prop_22116",
+    "One bounded convex proxy: Prop_22117",
+    "Standing capsule is not re-registered every physics tick",
+    "Capsule is updated only on entering crouch",
+    "Capsule is updated only on standing up",
+    "MSAA and TAA disabled",
+    "No screen-space antialiasing",
+    "Scene uses sharp mipmapped matte materials",
+    "Imported scene textures limited to 256 pixels",
+    "Dark linear retro lighting",
+    "Retro quantisation post-process attached",
+    "F3 toggles FPS display"
+  ]
+}

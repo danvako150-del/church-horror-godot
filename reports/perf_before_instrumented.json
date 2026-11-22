@@ -1,0 +1,56 @@
+{
+  "engine": "4.5.1-stable (official)",
+  "renderer": "forward_plus",
+  "samples": [
+    {
+      "case": "spawn_idle",
+      "collision_median_ms": 0.088,
+      "controller_median_ms": 0.124,
+      "controller_p95_ms": 0.187,
+      "gpu_mean_ms": 0.0,
+      "process_mean_ms": 0.053,
+      "wall_median_ms": 0.243,
+      "wall_p95_ms": 0.346
+    },
+    {
+      "case": "touch_22110",
+      "collision_median_ms": 28.485,
+      "controller_median_ms": 28.542,
+      "controller_p95_ms": 30.342,
+      "gpu_mean_ms": 0.0,
+      "process_mean_ms": 0.112625,
+      "wall_median_ms": 28.708,
+      "wall_p95_ms": 30.495
+    },
+    {
+      "case": "touch_22111",
+      "collision_median_ms": 22.504,
+      "controller_median_ms": 22.576,
+      "controller_p95_ms": 23.655,
+      "gpu_mean_ms": 0.0,
+      "process_mean_ms": 0.31275,
+      "wall_median_ms": 22.744,
+      "wall_p95_ms": 23.826
+    },
+    {
+      "case": "touch_22114",
+      "collision_median_ms": 76.716,
+      "controller_median_ms": 76.783,
+      "controller_p95_ms": 79.288,
+      "gpu_mean_ms": 0.0,
+      "process_mean_ms": 0.13465,
+      "wall_median_ms": 77.011,
+      "wall_p95_ms": 79.542
+    },
+    {
+      "case": "touch_22113",
+      "collision_median_ms": 5.717,
+      "controller_median_ms": 5.763,
+      "controller_p95_ms": 10.594,
+      "gpu_mean_ms": 0.0,
+      "process_mean_ms": 0.069,
+      "wall_median_ms": 5.962,
+      "wall_p95_ms": 10.716
+    }
+  ]
+}

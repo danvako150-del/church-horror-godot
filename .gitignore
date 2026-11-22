@@ -1,0 +1,12 @@
+.godot/
+.source-cache/
+.before_retro/
+*.tmp
+reports/screenshots/
+tools/engine/
+PROJECT_MANIFEST.json
+reports/*.log
+*.zip
+.env
+.env.*
+!.env.example
