@@ -10,3 +10,4 @@ reports/*.log
 .env
 .env.*
 !.env.example
+source_data/**/sound.cache

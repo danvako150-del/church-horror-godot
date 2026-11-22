@@ -1421,10 +1421,6 @@
       "sha256": "01b430b9f15dbbbef44da1bc05ee47d56c5e39ac2ef41ff0eb4c8eb422a54beb"
     },
     {
-      "path": "game/custom/project_assets/sound/sound.cache",
-      "sha256": "f083de0c8947282d44dd94e5ee25f677082598268dfa8b9347233b6b3212a20d"
-    },
-    {
       "path": "maps/church_block.vmf",
       "sha256": "7c0edf61dbff6e1e5a26cb3d24b4fadeaeba4d6f7b36003f37cdf78d21b2e603"
     }
