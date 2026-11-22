@@ -15,3 +15,4 @@
 *.vtx binary
 *.wav binary
 *.mp3 binary
+source_data/** -text
